@@ -1,0 +1,634 @@
+<title>Bard</title>
+<style>
+  body {
+    margin: 2%
+  }
+  table {
+    border: 1px solid #444444;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #444444;
+  }
+</style>
+<body>
+  <h1>음유시인(Bard)</h1>
+      <h5>성향</h5>
+        <p>
+          질서가 아닌 모든 성향.
+        </p>
+      <h5>체력 주사위(Hit Die)</h5>
+        <p>
+          d6.
+        </p>
+    <h4>직업 스킬(Class Skills)</h4>
+      <p>
+        음유시인의 직업 스킬(그리고 각 스킬의 핵심 능력)은 감정(Int), 균형 잡기(Dex), 속임수(Cha), 등반(Str), 집중(Con), 제작(Int), 문서 해독(Int), 외교(Cha), 변장(Cha), 탈출의 명수(Dex), 정보 수집(Cha), 숨기(Dex), 점프(Str), 지식(모든 분야, 개별적으로 획득)(Int), 듣기(Wis), 조용히 움직이기(Dex), 공연(Cha), 직업 활동(Wis), 간파(Wis), 손기술(Dex), 언어 구사(None), 주문제작(Int), 수영(Str), 공중제비(Dex), 마법 장치 사용(Cha)입니다.
+      </p>
+      <h5>1st 레벨 스킬 포인트</h5>
+        <p>
+          (6 + 지능 수정치) x 4.
+        </p>
+      <h5>레벨 업 당 스킬 포인트</h5>
+        <p>
+          6 + 지능 수정치.
+        </p>
+      <table>
+        <caption>표:음유시인</caption>
+        <thead>
+          <tr>
+            <th bgcolor="#BDBDBD" rowspan="2">레벨</th>
+            <th bgcolor="#BDBDBD" rowspan="2" align="left">기본<br>공격 보너스</th>
+            <th bgcolor="#BDBDBD" rowspan="2">인내<br>극복</th>
+            <th bgcolor="#BDBDBD" rowspan="2">반사신경<br>극복</th>
+            <th bgcolor="#BDBDBD" rowspan="2">의지<br>극복</th>
+            <th bgcolor="#BDBDBD" rowspan="2" align="left">특수</th>
+            <th bgcolor="#BDBDBD" colspan="7">하루 당 주문 수</th>
+            <th bgcolor="#BDBDBD" colspan="7">알고 있는 주문 수</th>
+          </tr>
+          <tr>
+            <th bgcolor="#BDBDBD">0</th>
+            <th bgcolor="#BDBDBD">1st</th>
+            <th bgcolor="#BDBDBD">2st</th>
+            <th bgcolor="#BDBDBD">3st</th>
+            <th bgcolor="#BDBDBD">4st</th>
+            <th bgcolor="#BDBDBD">5st</th>
+            <th bgcolor="#BDBDBD">6st</th>
+            <th bgcolor="#BDBDBD">0</th>
+            <th bgcolor="#BDBDBD">1st</th>
+            <th bgcolor="#BDBDBD">2st</th>
+            <th bgcolor="#BDBDBD">3st</th>
+            <th bgcolor="#BDBDBD">4st</th>
+            <th bgcolor="#BDBDBD">5st</th>
+            <th bgcolor="#BDBDBD">6st</th>
+          </tr>
+        </thead>
+        <tfoot>
+          <tr>
+            <td colspan="20">
+              <ol>
+                <li>
+                  음유시인이 이 레벨의 보너스 주문을 받을 만큼 카리스마가 충분히 높을 경우
+                </li>
+              </ol>
+            </td>
+          </tr>
+        </tfoot>
+        <tbody>
+          <tr>
+            <td>1st</td>
+            <td>+0</td>
+            <td>+0</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td>음유시인 음악, 음유시인 지식, 받아치기노래, 매혹, 용기 고취 +1</td>
+            <td align="center">2</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">4</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>2nd</td>
+            <td>+1</td>
+            <td>+0</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td></td>
+            <td align="center">3</td>
+            <td align="center">0</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">5</td>
+            <td align="center">2<sup>1</sup></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>3rd</td>
+            <td>+2</td>
+            <td>+1</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td>역량 고취</td>
+            <td align="center">3</td>
+            <td align="center">1</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">3</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>4th</td>
+            <td>+3</td>
+            <td>+1</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td></td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">3</td>
+            <td align="center">2<sup>1</sup></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>5th</td>
+            <td>+3</td>
+            <td>+1</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td></td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">1</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>6th</td>
+            <td>+4</td>
+            <td>+2</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td>암시</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>7th</td>
+            <td>+5</td>
+            <td>+2</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td></td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">2<sup>1</sup></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>8th</td>
+            <td>+6/+1</td>
+            <td>+2</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td>용기 고취 +2</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">1</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>9th</td>
+            <td>+6/+1</td>
+            <td>+3</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td>위대함 고취</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>10th</td>
+            <td>+7/+2</td>
+            <td>+3</td>
+            <td>+7</td>
+            <td>+7</td>
+            <td></td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">2<sup>1</sup></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>11th</td>
+            <td>+8/+3</td>
+            <td>+3</td>
+            <td>+7</td>
+            <td>+7</td>
+            <td></td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">1</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>12th</td>
+            <td>+9/+4</td>
+            <td>+4</td>
+            <td>+8</td>
+            <td>+8</td>
+            <td>해방의 노래</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>13th</td>
+            <td>+9/+4</td>
+            <td>+4</td>
+            <td>+8</td>
+            <td>+8</td>
+            <td></td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">2<sup>1</sup></td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>14th</td>
+            <td>+10/+5</td>
+            <td>+4</td>
+            <td>+9</td>
+            <td>+9</td>
+            <td>용기 고취 +3</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">1</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>15th</td>
+            <td>+11/+6/+1</td>
+            <td>+5</td>
+            <td>+9</td>
+            <td>+9</td>
+            <td>영웅심 고취</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">-</td>
+            <td align="center">6</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>16th</td>
+            <td>+12/+7/+2</td>
+            <td>+5</td>
+            <td>+10</td>
+            <td>+10</td>
+            <td></td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">0</td>
+            <td align="center">6</td>
+            <td align="center">5</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">2<sup>1</sup></td>
+          </tr>
+          <tr>
+            <td>17th</td>
+            <td>+12/+7/+2</td>
+            <td>+5</td>
+            <td>+10</td>
+            <td>+10</td>
+            <td></td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">3</td>
+            <td align="center">1</td>
+            <td align="center">6</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+          </tr>
+          <tr>
+            <td>18th</td>
+            <td>+13/+8/+3</td>
+            <td>+6</td>
+            <td>+11</td>
+            <td>+11</td>
+            <td>대규모 암시</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">2</td>
+            <td align="center">6</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+          </tr>
+          <tr>
+            <td>19th</td>
+            <td>+14/+9/+4</td>
+            <td>+6</td>
+            <td>+11</td>
+            <td>+11</td>
+            <td></td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">3</td>
+            <td align="center">6</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+          </tr>
+          <tr>
+            <td>20th</td>
+            <td>+15/+10/+5</td>
+            <td>+6</td>
+            <td>+12</td>
+            <td>+12</td>
+            <td>용기 고취 +4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">4</td>
+            <td align="center">6</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">4</td>
+          </tr>
+        </tbody>
+      </table>
+    <h4>직업 특기(Class Features)</h4>
+      <p>
+        다음은 음유시인의 직업 특기입니다.
+      </p>
+      <h5>무기, 방어구 숙련(Weapon and Armor Proficiency)</h5>
+        <p>
+          음유시인은 모든 단순 무기, 장검, 레이피어, 단몽둥이(sap), 단검, 단궁, 채찍에 숙련되어 있습니다. 그리고 가벼운 갑옷, 방패(보루 방패 제외)에 숙련되어 있습니다. 음유시인은 가벼운 갑옷을 입고 있다면 일반 비전 주문 실패 확률을 발생시키지 않으면서 음유시인 주문을 시전할 수 있습니다. 하지만, 다른 비전 주문시전자들처럼, 보통 갑옷이나 무거운 갑옷을 입고 있거나 방패를 사용한다면 해당 주문이 동작 요소를 포함한 경우(필수일 경우) 비전 주문 실패 확률을 발생시킵니다. 다중직업 음유시인은 다른 직업으로 얻은 비전 주문을 시전할 때 일반 비전 주문 실패 확률을 발생시킵니다.
+        </p>
+      <h5>주문(Spells)</h5>
+        <p>
+          음유시인은 음유시인 주문 목록에 적힌 비전 주문을 시전합니다. 그는 자신이 아는 어떤 주문이든 미리 준비하지 않고 시전할 수 있습니다. 모든 음유시인 주문은 음성 요소(노래, 낭송, 연주)를 가지고 있습니다. 주문을 배우거나 시전하기 위해서는, 음유시인은 반드시 10 + 주문 레벨 이상의 카리스마 점수를 가지고 있어야 합니다. 음유시인 주문에 대한 극복 굴림 난이도는 10 + 주문 레벨 + 음유시인의 카리스마 수정치입니다.
+        </p>
+        <p>
+          다른 주문시전자와 마찬가지로, 음유시인은 매일 각 주문 레벨마다 정해진 수의 주문만 시전할 수 있습니다. 기본 하루 당 주문 할당량은 표:음유시인에 제시되어 있습니다. 게다가, 카리스마 점수가 높을 경우 매일 보너스 주문을 받습니다. 만약 표:음유시인에 주어진 주문 레벨에서 매일 0개의 주문을 받는다고 표시되어 있으면, 그 주문레벨에 대한 카리스마 점수에 따라 받을 수 있는 보너스 주문만 얻게 됩니다.
+        </p>
+        <p>
+          음유시인의 주문 선택은 극도로 제한되어 있습니다. 음유시인은 당신이 선택한 0레벨 주문 4개만 알고있는 채로 플레이를 시작합니다. 음유시인 레벨이 오르면 거의 대부분의 경우 표:음유시인에 적혀있는 대로 하나 이상의 새로운 주문을 얻게 됩니다. (하루 당 주문과는 달리, 음유시인이 알고 있는 주문의 수는 카리스마 점수의 영향을 받지 않습니다. 표:음유시인에 적힌 숫자로 고정입니다.)
+        </p>
+        <p>
+          5레벨에 도달한 경우, 그리고 그 후 매 3레벨 마다(8th, 11th, 등등) 음유시인은 자신이 알고 있는 것 하나 대신에 새로운 주문을 배우기로 선택할 수 있습니다. 사실상, 음유시인은 옛 주문을 "잃고" 새로운 것으로 대체하는 것입니다. 새로운 주문의 레벨은 반드시 교체된 주문과 같아야 합니다. 또한 반드시 그 음유시인이 시전할 수 있는 가장 레벨이 높은 음유시인 주문보다 최소 2레벨은 낮아야 합니다. 음유시인은 어떤 레벨에서든 단 하나의 주문만 바꿀 수 있고, 그 레벨에 알게된 새로운 주문을 얻는 것과 동시에 주문을 바꿀지 여부를 반드시 선택해야합니다.
+        </p>
+        <p>
+          상기한 바와 같이, 음유시인은 주문을 미리 준비할 필요가 없습니다. 해당 주문 레벨의 하루 할당량을 이미 소진하지 않았다면 언제라도 자신이 아는 어떤 주문이든 시전할 수 있습니다.
+        </p>
+      <h5>음유시인 지식(Bardic Knowledge)</h5>
+        <p>
+          음유시인은 음유시인 레벨 + 그의 지능 수정치를 보너스로 받는 특별한 음유시인 지식 체크를 할 수 있습니다. 그렇게 함으로써 그 지역의 중요한 인물, 전설적인 물건, 중요한 장소에 대한 관련 정보를 음유시인이 알고 있는지 여부를 결정할 수 있습니다. (만약 음유시인의 지식(역사) 등급이 5 이상이면, 이 체크에 +2 보너스를 얻습니다.)
+        </p>
+        <p>
+          성공적인 음유시인 지식 체크가 마법 아이템의 힘을 밝혀내지는 못하지만, 그 일반적인 기능에 대한 힌트는 얻을 수 있습니다. 음유시인은 이 체크에서 10으로 하기(take 10)나 20으로 하기(take 20)를 할 수 없습니다. 주어지는 지식들은 근본적으로 무작위입니다.
+        </p>
+        <table>
+          <tbody>
+            <tr>
+              <th>난이도</th>
+              <th align="left">지식의 종류</th>
+            </tr>
+            <tr>
+              <td align="center">10</td>
+              <td>흔한(Common), 해당 지역 사람들 중 적어도 몇몇은 알고 있을 법한.</td>
+            </tr>
+            <tr>
+              <td align="center">20</td>
+              <td>흔하지는 않지만 알 수도 있는(Uncommon but available), 소수의 사람들에게만 알려진.</td>
+            </tr>
+            <tr>
+              <td align="center">25</td>
+              <td>잘 알려져 있지 않은(Obscure), 소수의 사람만 알고 있는, 알아내기 힘든.</td>
+            </tr>
+            <tr>
+              <td align="center">30</td>
+              <td>극도로 알려지지 않은(Extremely obscure), 극히 소수의 사람들만 알고 있는, 알았더라도 잊어버렸을 만한, 그 지식의 중요성을 이해하지 못한 사람만 알고있을 만한.</td>
+            </tr>
+          </tbody>
+        </table>
+      <h5>음유시인 음악(Bardic Music)</h5>
+        <p>
+          음유시인 레벨마다 하루에 한 번, 음유시인은 자신의 노래나 시로 주변에 마법 효과를 발생시킬 수 있습니다. (보통의 경우 원한다면 자신도 포함). 만약 어떤 능력이 음유시인 음악 목록에 속해있고 그 설명이 노래하기나 악기 연주에 대한 것이라면, 그 능력은 시 낭송, 성가 부르기(chanting), 서정곡 부르기, 가곡 부르기, 휘파람, 악기 연주, 담화 공연와 함께 악기 연주하기를 통해 활성화될 수 있습니다. 각 능력은 최소 음유시인 레벨과, 자격을 얻기 위한 공연 스킬의 최소 등급을 둘 다 필요로 합니다. 만약 음유시인이 공연 스킬의 최소 한 분야에서도 요구되는 등급을 충족시키지 못한다면, 해당 등급을 얻을 때까지 음유시인 음악 능력을 얻지 못합니다.
+        </p>
+        <p>
+          음유시인 음악의 효과 시작은 표준 행동입니다. 일부 음유시인 음악 능력은 집중을 필요로 합니다. 그러한 경우 음유시인은 반드시 능력을 유지하기 위해 각 라운드마다 표준 행동을 취해야 합니다. 집중이 필요 없는 음유시인 음악을 사용하는 경우에도, 음유시인은 (주문서 같은) 주문 완성, (마법봉 같은) 주문 격발, 명령어를 시전에 필요로 하는 주문을 시전하거나 마법 아이템을 활성화할 수 없습니다. 음성 요소로 주문을 시전하는 것과 같이, 귀머거리 음유시인은 음유시인 음악을 사용하려할 때 20% 확률로 실패할 수 있습니다. 만약 실패하더라도, 그 시도는 음유시인의 하루 한계치 계산에 적용됩니다.
+        </p>
+      <h5>받아치기노래(Countersong) (Su)</h5>
+        <p>
+          공연 스킬 등급이 3 이상인 음유시인은 자신의 음악/시를 그 소리에 따라 마법 효과 받아치기(counter)에 사용할 수 있습니다. (이 능력은 단순히 음성 요소가 있는 주문으로 취급되지는 않습니다.) 받아치기노래의 각 라운드마다, 음유시인은 공연 체크를 합니다. 음파 또는 언어기반(language-dependent) 마법 공격에 영향을 받는, 음유시인으로부터 30피트 이내에 있는 모든 생물은(음유시인 자신도 포함) 극복 굴림을 시행한 후, 음유시인의 공연 체크 결과가 더 높은 것으로 판명되면 자신의 극복 굴림 대신 음유시인의 공연 체크 결과를 사용할 수 있습니다. 만약 받아치기노래의 범위 안에 있는 생물이 이미 비즉각적인 음파/언어기반 공격의 효과에 이미 노출되었다면, 받아치기노래를 듣고 있는 각 라운드마다 극복 굴림을 한 번 더 얻습니다. 하지만 그 굴림은 반드시 음유시인의 공연 체크 결과를 사용해야합니다. 받아치기노래는 극복을 허용하지 않는 효과에는 아무 효과도 발휘하지 않습니다. 음유시인은 받아치기노래를 10라운드동안 유지할 수 있습니다.
+        </p>
+      <h5>매혹(Fascinate) (Sp)</h5>
+        <p>
+          공연 스킬 등급이 3 이상인 음유시인은 자신의 음악/시를 이용해 하나 이상의 생물을 자신에게 매혹되게 할 수 있습니다. 매혹 당하는 각 생물은 90피트 이내에 있어야하며, 음유시인을 보고 소리를 들을 수 있어야하고, 그를 신경쓸 수 있어야합니다. 음유시인 또한 반드시 그 생물을 볼 수 있어야 합니다. 전투로 인한 주의산만이나 다른 위험요소들은 이 능력의 작동을 방해합니다. 1레벨 위로 레벨이 3만큼 증가할 때마다 음유시인은 이 능력의 한 번 사용에 생물을 하나씩 추가로 대상으로 삼을 수 있습니다.
+        </p>
+        <p>
+          이 능력을 사용하려면, 음유시인은 공연 체크를 해야합니다. 그 체크 결과가 영향을 받은 각 생물의 매혹 효과에 대한 의지 극복의 DC입니다. 만약 그 생물의 극복 굴림이 성공하면, 음유시인은 24시간 동안 그 생물에게 다시 매혹을 시도할 수 없습니다. 만약 극복 굴림이 실패한다면, 그 생물은 조용히 자리에 앉아 노래를 듣습니다. 다른 행동은 없습니다. 이 효과는 음유시인이 계속 공연을 하며 집중하는 동안 지속됩니다.(레벨 당 최대 1라운드까지). 매혹 중에는, 대상은 듣기와 색출 체크처럼 반응(reaction)하는 스킬 체크에 -4 페널티를 받습니다. 잠재적인 모든 위협은 음유시인이 또 한 번의 공연 체크를 하도록 강요하며, 대상 생물에게는 그 새로운 공연 체크 결과를 난이도로 하는 새로운 극복 굴림을 허용합니다.
+        </p>
+        <p>
+          누군가가 무기를 뽑거나, 주문을 시전하거나, 대상에게 원거리 무기를 조준하는 등의 모든 분명한 위협은 자동적으로 효과를 깨뜨립니다. 매혹은 부여(강제)고, 정신영향(mind-affecting) 능력입니다.
+        </p>
+      <h5>용기 고취(Inspire Courage) (Su)</h5>
+        <p>
+          공연 스킬 등급이 3 이상인 음유시인은 자신의 음악/시를 이용해 (자기 자신을 포함한) 동료들에게 용기를 불어넣어 공포에 저항하도록 격려하고 전투 능력을 향상시킬 수 있습니다. 이 효과를 받으려면, 동료들은 반드시 음유시인의 노래를 들을 수 있어야합니다. 그 효과는 음유시인의 노래를 듣고 있는 동안과 듣고난 후 5라운드동안 지속됩니다. 영향을 받은 동료는 현혹(charm)과 공포 효과에 대한 극복굴림에 +1 사기 보너스를 받고 공격과 무기 피해량 굴림에 +1 사기 보너스를 받습니다. 8레벨, 그리고 그 후 매 6레벨마다, 이 보너스는 1씩 증가합니다. (8th에 +2, 14th에 +3, 20th에 +4). 용기 고취는 정신영향 능력입니다.
+        </p>
+      <h5>역량 고취(Inspire Competence) (Su)</h5>
+        <p>
+          3레벨 이상이고 공연 스킬 등급이 6 이상인 음유시인은 자신의 음악/시를 이용해 동료가 작업을 성공적으로 마칠 수 있도록 도울 수 있습니다. 동료는 반드시 30피트 이내에 있어야하고 음유시인을 보고 소리를 들을 수 있어야 합니다. 음유시인은 또한 반드시 동료를 볼 수 있어야 합니다.
+        </p>
+        <p>
+          동료는 음유시인의 음악을 듣고있는 동안 특정 스킬의 스킬 체크에 +2 역량 보너스를 얻습니다. 이 능력은 특정한 몇 가지 용도로는 사용할 수 없습니다. 효과는 음유시인이 집중하는 한 지속되며, 최대 2분까지 입니다. 음유시인은 자기 자신의 역량을 고취할 수는 없습니다. 역량 고취는 정신영향 능력입니다.
+        </p>
+      <h5>암시(Suggestion) (Sp)</h5>
+        <p>
+          6레벨 이상이고 공연 스킬 등급이 6 이상인 음유시인은 이미 매혹된 생물에게 (주문으로서) 암시를 걸 수 있습니다. 이 능력을 사용해도 매혹 효과에 대한 음유시인의 집중은 깨지지 않고, 매혹 효과에 대한 두 번째 극복 굴림을 허용하지도 않습니다.
+        </p>
+        <p>
+          암시는 음유시인 음악 시연의 하루 제한에 계산되지 않습니다. 의지 극복 굴림 (DC 10 + 음유시인 레벨의 절반 + 음유시인의 Cha 수정치)은 이 효과를 무력화합니다. 이 능력은 오직 하나의 생물에게만 영향을 발휘합니다.(하지만 아래의 대규모 암시를 보십시오). 암시는 부여(강제)고, 정신영향이며, 언어기반 능력입니다.
+        </p>
+      <h5>위대함 고취(Inspire Greatness) (Su)</h5>
+        <p>
+          9레벨 이상이고 공연 스킬 등급이 12 이상인 음유시인은 자신의 음악/시를 이용해 자기 자신과 30피트 안의 자발적인 동료 하나에게 위대함을 불어넣어 추가적인 전투 수용력를 부여할 수 있습니다. 음유시인 9레벨 이후 3레벨씩 오를 때마다, 이 능력의 한 번 사용에 동료 한 명을 추가로 대상으로 삼을 수 있습니다.(12th 레벨에 2명, 15th에 3명, 18th에 4명). 위대함을 고취하려면, 음유시인은 반드시 노래를 해야하며 동료는 그 노래를 들어야만 합니다. 효과는 동료가 음유시인의 노래를 듣고 있는 동안과 그 후 5라운드 동안 지속됩니다. 위대함이 고취된 생물은 2d10의 보너스 체력 주사위를 얻고, 그에 따른 숫자의 임시 체력을 얻습니다.(가능할 경우 이 추가 체력 주사위에 대상의 체질 수정치를 적용). 또 공격 굴림에 +2 역량 보너스를 얻고, 인내 극복에 +1 역량 보너스를 얻습니다. 보너스 체력 주사위는 체력 주사위에 의존하는 주문의 효과를 결정할 때 정규 체력 주사위로 취급합니다. 위대함 고취는 정신영향 능력입니다.
+        </p>
+      <h5>해방의 노래(Song of Freedom) (Sp)</h5>
+        <p>
+          12레벨 이상이고 공연 스킬 등급이 15 이상인 음유시인은 자신의 음악/시를 이용해 부여 파괴 주문과 동등한 효과를 발생시킬 수 있습니다.(시전자 레벨은 그 캐릭터의 음유시인 레벨과 같습니다). 이 능력의 사용은 1분 동안 방해받지 않고 집중해서 음악을 연주해야하고, 30피트 이내의 대상 하나에게만 적용됩니다. 음유시인은 자기 자신에게 해방의 노래를 사용할 수 없습니다.
+        </p>
+      <h5>영웅심 고취(Inspire Heroics) (Su)</h5>
+        <p>
+          15레벨 이상이고 공연 스킬 등급이 18 이상인 음유시인은 자신의 음악/시를 이용해 굉장한 영웅심을 자신과 30피트 이내의 자발적인(willing) 동료 하나에게 불러넣을 수 있습니다. 15레벨 위로 3레벨 씩 오를 때마다 추가로 하나의 생물의 영웅심을 고취시킬 수 있습니다. 영웅심 고취를 위해서는, 음유시인은 반드시 노래해야하고 동료는 반드시 그 노래를 라운드 내내 들어야합니다. 효과를 받은 생물은 극복 굴림에 +4 사기 보너스 얻고 AC에 +4 회피 보너스를 얻습니다. 이 효과는 음유시인의 노래를 듣는 동안과 그 이후 5라운드 동안 지속됩니다. 영웅심 고취는 정신영향 능력입니다.
+        </p>
+      <h5>대규모 암시(Mass Suggestion) (Sp)</h5>
+        <p>
+          이 능력은 상기한 암시와 같은 기능을 합니다. 하지만 18레벨 이상이고 공연 스킬 등급이 21 이상인 음유시인은 자신이 이미 매혹시킨 모든 생물에게 숫자 제한 없이 동시에 암시를 걸 수 있습니다. 대규모 암시는 부여(강제)고, 정신영향이며, 언어기반 능력입니다.
+        </p>
+    <h4>탈-음유시인(Ex-Bards)</h4>
+      <p>
+        질서 성향이 된 음유시인은 음유시인 레벨을 더 이상 얻을 수 없습니다. 음유시인의 능력은 모두 유지됩니다.
+      </p>
+</body>

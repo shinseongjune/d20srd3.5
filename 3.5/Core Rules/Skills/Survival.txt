@@ -1,0 +1,16 @@
+
+
+체크(Check)
+
+
+행동(Action)
+
+
+재시도(Try Again)
+
+
+특수(Special)
+
+시너지(Synergy)
+
+비숙련(Untrained)

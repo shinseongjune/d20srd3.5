@@ -1,0 +1,701 @@
+1
+action 행동
+modifier 수정치
+stacking 중첩
+bonus 보너스
+penalty 페널티
+ability modifier 능력 수정치
+alchemical bonus 연금술 보너스
+armor bonus 방어구 보너스
+armor class AC 방어 수준
+touch attack 접촉 공격
+force 포스
+mage armor 마법사 갑옷
+shadow 그림자 괴물
+incorporeal 무형
+circumstance modifier 상황 수정치
+competence modifier 역량 수정치
+bardic ability 음유시인 능력
+inspire competence 역량 고취
+attack roll 공격 굴림
+saving throw 극복 굴림
+skill 스킬
+check 체크
+cast 시전
+level 레벨
+ability 능력
+damage 피해
+initiative 선제공격
+deflection 빗나감
+dodge 회피
+enhancement 향상
+insight 통찰
+luck 행운
+morale 사기
+natural armor 자연 방어구
+profane multifier 사교도 수정치
+racial bonus 종족 보너스
+resistance bonus 저항 보너스
+sacred modifier 신성 수정치
+shield bonus 방패 보너스
+size modifier 몸집 수정치
+hit point 체력
+blinded 실명
+ability scores 능력치
+spellcaster 주문시전자
+strength str 힘
+dexterity dex 민첩
+constitution con 체질
+intelligence int 지능
+wisdom wis 지혜
+charisma cha 카리스마
+
+fighter 격투가
+barbarian 야만용사
+paladin 성기사
+ranger 순찰자
+monk 수도사
+
+off-hand 반대손
+two-handed 양손
+climb 등반
+jump 점프
+swim 수영
+
+rogue 도적
+sorcerer 원소술사
+wizard 마법사
+
+balance 균형 잡기
+escape artist 탈출의 명수
+hide 숨기
+move silently 조용히 움직이기
+open lock 잠금 해제
+ride 탑승
+sleight of hand 손기술
+tumble 공중제비
+use rope 로프 사용
+
+fortitude svaing throw 인내 극복 굴림
+concentration 집중
+
+appraise 감정
+craft 제작
+decipher script 문서 해독
+disable device 장치 비활성화
+forgery 위조
+knowledge 지식
+search 탐색
+spellcraft 주문 제작
+
+animal 동물
+
+cleric 성직자
+will saving throw 의지 극복 굴림
+heal 치유
+listen 듣기
+profession 직업 활동
+sense motive 간파
+spot 색출
+survival 생존
+
+bluff 속임수
+diplomacy 외교
+disguise 변장
+gather information 정보 수집
+handle animal 동물 다루기
+intimidate 협박
+perform 공연
+use magic device 마법 장치 사용
+turning 퇴치
+
+bard 음유시인
+
+--
+2
+
+multiclass 다중직업
+
+common 공용어
+abyssal 심연어
+celestial 셀레스티얼어, 셀레스티얼
+infernal 지옥어
+sylvan 숲어
+draconic 용족어
+medium 중간
+medium creature 중간 크기 생물
+
+feat 특기
+
+human 인간
+dwarf dwarves 드워프
+elf elves 엘프
+gnome 노움
+half- 하프
+orc 오크
+halfling 하플링
+
+monster 몬스터
+darkvision 어둠시야
+stonecunning 돌재주
+stonework 석조물
+sliding wall 밀리는 벽
+stonework trap 석조 함정
+
+familiarity 친숙성
+
+urgrosh 우그로쉬(드워프 무기)
+simple / martial / exotic weapon 단순 / 군용 / 낯선 무기
+stability 안정성
+bull rush 황소 돌진
+trip 넘어뜨리기
+fly 비행
+stand 서있기 서있는 상태
+spell-like 유사주문
+goblinoid 고블리노이드
+giant 거인
+flat-footed 불시 상태
+
+terran 대지어
+undercommon 지하공용어
+
+sleep 수면
+enchantment 부여
+low-light vision 저광 시야
+longsword 장검
+rapier 레이피어
+longbow 장궁
+composite longbow 합성장궁
+shorbow 단궁
+composite shortbow 합성단궁
+
+gnoll 놀어, 놀
+
+lifting 들기
+carrying 운반
+
+hooked hammer 갈고리 망치
+illusion 환영
+difficulty class DC 난이도
+kobolds 코볼트
+
+dancing lights 춤추는 빛
+ghost sound 유령 소리
+prestidigitation 요술
+
+speak animal 동물과 대화하기
+
+---
+3
+
+alignment 성향
+good 선
+evil 악
+law lawful 질서
+chaos 혼돈
+neutral 중립
+
+devil 악마
+diabolical 악마적
+demon 마귀
+demonic 마귀적
+venerable age 말년
+
+---
+4
+
+barbarian 야만용사
+
+proficiency 숙련
+tower shiled 보루 방패
+
+fast movement 빠른 이동
+illiteracy 문맹
+rage 격노
+
+temporary hit points 임시 체력
+
+command word 명령어
+wand 마법봉
+spell trigger 주문 격발
+scroll 주문서
+spell completion 주문 완성
+combat expertise 전투 전문지식
+item creation 아이템 창조
+metamagic 메타마법
+
+fatigued 지침
+charge 돌진
+run 달리기
+
+uncanny dodge 초인적 회피
+trap sense 함정 감지
+improved uncanny dodge 향상된 초인적 회피
+damage reduction 피해 감소
+greater rage 대격노
+indomitable will 불굴의 의지
+tireless rage 지칠 줄 모르는 격노
+mighty rage 막강한 격노
+
+ex- 탈-(직업)
+
+---
+5
+bard 음유시인
+speak language 언어 구사
+bardic music 음유시인 음악
+bardic knowledge 음유시인 지식
+countersong 받아치기노래
+fascinate 매혹
+inspire courage 용기 고취
+inspire competence 역량 고취
+suggestion 암시
+inspire greatness 위대함 고취
+song of freedom 해방의 노래
+inspire heroics 영웅심 고취
+mass suggestion 대규모 암시
+
+sap 단몽둥이
+somatic component 동작 요소
+arcane 비전
+verbal component 음성 요소
+
+take 10 10으로 하기
+take 20 20으로 하기
+
+chanting 성가 부르기
+spoken performance 담화 공연
+
+standard action 표준 행동
+sonic 음파
+language-dependent 언어기반
+compulsion 강제
+cham 현혹
+mind-affecting 정신영향
+performance 시연
+fighting capability 전투 수용력
+
+----
+cleric 성직자
+deity 신
+concentration 집중
+arcana 비전
+the planes 차원
+rebuke 힐책
+domain 영역
+war domain 전쟁 영역
+weapon focus 무기 집중
+aura 오라
+detect evil 악 탐지
+devine 신성
+slot 슬롯
+spontaneous casting 즉흥 시전
+granted power 허락된 권능
+channel 전달
+cure 정화
+inflict 상처 입히기
+holy 성스러운
+unholy 불경한
+outsider 아웃사이더
+atonement 속죄
+access 사용 권한
+
+----------
+드루이드
+
+club 곤봉
+dagger 단도
+dart 다트
+quarterstaff 지팡이
+scimitar 시미터
+sickle 낫
+shortspear 단창
+sling 슬링
+spear 창
+wild shape 야생의 형상
+
+padded armor 누비 갑옷
+leather 가죽
+hide 생가죽
+ironwood spell 강철나무 주문
+supernatural 초자연적
+
+nature's ally 자연의 벗
+animal companion 동물 동료
+
+indifferent 무관심한
+unfriendly 불친절한
+
+magical beast 마법 야수
+
+nature sense 자연의 감각
+wild empathy 야생의 교감
+
+woodland 삼림지대
+woodland stride 삼림지대 활보
+trackless step 흔적 없는 걸음
+
+Resist Nature’s Lure 자연의 유혹 저항
+fey 페이
+
+wild shape 야생의 형상
+venom immunity 맹독 면역성
+a thousand faces 천의 얼굴
+timeless body 영원의 육신
+
+disguise self 자기변장
+
+alternate form 형상 교체
+
+attack of opportunity 기회 공격
+
+tiny 초소형
+huge 거대
+plant creature 식물 생물
+elemental 원소정령
+
+trick 재주
+
+advance 강화시키다(monster)
+free action 자유 행동
+push 강제하다
+touch range spell 접촉 범위 주문
+evasion 회피
+devotion 헌신
+multiattack 다중공격
+improved evasion 향상된 회피
+dire 광포한
+
+-------------
+수도사
+
+crossbow hand/light/heavy 쇠뇌 한손/경량/고중량
+handaxe 손도끼
+javelin 투창
+kama 카마
+sai 필가차
+siangham 샹함
+
+flurry of blows 질풍연격
+helpless 속수무책
+full attack action 전력 공격 행동
+special monk weapon 수도사 특수 무기
+unarmed strike 맨손 타격
+improved unarmed strike 향상된 맨손 타격
+lethal 살상
+nonlethal 비살상
+grappling 그래플링
+manufactured weapon 제작된 무기
+natural weapon 자연 무기
+
+improved grapple 향상된 그래플링
+stunning fist 뇌진탕 주먹
+combat reflexes 전투 반사신경
+deflect arrows 화살 튕겨내기
+improved disarm 향상된 무장해제
+improved trip 향상된 다리걸기
+prerequisite 전제 조건
+evasion 회피
+still mind 명경지수
+ki strike 기의 일격
+hardness 경도
+
+slow fall 저속 낙하
+purity of body 육신의 순수성
+wholeness of body 육신의 완전성
+improved evasion 향상된 회피
+diamond body 금강불괴
+abundant step 축지법
+diamond soul 금강삼매
+quivering palm 발경
+timeless body 영원의 육신
+tongue of the sun and moon 일월지설
+empty body 공허한 육신
+perfect self 열반
+spell resistance 주문 저항
+construct 구조물
+ooze 수액괴물
+ethereal 에테르
+etherealness 에테르화
+outsider 아웃사이더
+
+------------
+성기사
+
+light/medium/heavy armor 가벼운/보통/무거운 방어구
+smite evil 악 강타
+divine grace 신성한 은혜
+lay on hands 광휘의 손길
+aura of courage 용기의 오라
+divine health 신성한 체력
+mount 탈것
+special mount 특별한 탈것
+remove disease 질병 제거
+code of conduct 행동 강령
+associates 연합
+empathic link 감정 연결
+unconscious 의식 불명
+fear 공포
+dead 사망
+divine spell 신성 주문
+heavy warhorse 고중량 전쟁마 
+warpony 전쟁나귀
+celestial 천상
+realm 영역
+conjuration 생성
+calling 호출
+familiar 사역마
+
+-------------------
+순찰자
+
+dungeoneering 던전 탐험
+favored enemy 선호하는 적
+humanoid 휴머노이드
+track 추적
+combat style 전투 스타일
+rapid shot 속사
+two weapon 쌍수
+two-weapon fighting 쌍수 격투
+endurance 지구력
+manyshot 다발사격
+woodland stride 삼림지대 활보
+swift tracker 신속한 추적자
+combat style mastery 전투 스타일 통달
+improved precise shot 향상된 정밀 사격
+greater two-weapon fighting 최고의 쌍수 격투
+camouflage 위장술
+cover 엄폐
+concealment 은폐
+hide in plain sight 소멸
+
+-----------------------
+도적
+
+sneak attack 은신 공격
+flank 측면 공격
+critical hit 치명타
+blackjack 블랙잭
+trapfinding 함정 수색
+trap sense 함정 감지
+invisible 투명
+crippling strike 저해의 일격
+defensive roll 구르기
+opportunist 기회주의자
+skill mastery 기술 통달
+slippery mind 약삭빠른 사고방식
+
+------------------------
+원소술사 & 마법사
+
+scroll scribe 두루마리 쓰기
+spellbook 주문서
+school specialization 학파 전문화
+abjuration 방호
+conjuration 생성
+divination 예지
+enchantment 부여
+evocation 강신
+illusion 환영
+necromancy 사령
+transmutation 변환
+universal 범용
+alertness 경각심
+deliver touch spells 접촉 주문 전달
+toucher 접촉자
+speak with master 주인과 대화하기
+speak with animals of its kind 같은 종과 대화하기
+raven 큰까마귀
+weasel 족제비
+mink 밍크
+polecat 긴털족제비
+ermine 담비
+scry on familiar 사역마 점술
+spell mastery 주문 통달
+read magic 읽기 마법
+
+specialist wizard 전문가 마법사
+scrying 점술
+still magic 부동 주문
+------------------------
+다중직업 캐릭터
+
+
+-----------------------
+프레스티지 직업
+
+
+-------------------------
+
+----------------------
+차원
+
+material plane 물질 차원
+transitive planes 전이 차원
+inner planes 내부 차원
+outer planes 외부 차원
+demiplanes 준차원
+
+astral plane 별무리 차원
+ethereal plane 에테르 차원
+plane of shadow 그림자의 차원
+
+
+
+---------------------------------
+스킬 사용하기
+
+architecture and engineering 건축학, 공학
+history 역사
+local 현지
+nobility and royalty 귀족, 왕족
+
+
+-------------------------------------
+감정 appraise
+
+diligent 근면
+epic 서사, 서사급
+magnifying glass 확대경
+merchant's scale 상인의 저울
+
+
+-------------------------------------
+균형 잡기 balance
+agile 기민함
+
+---------------------------------
+속임수 bluff
+persuasive 설득력
+
+-----------------------------------
+등반 climb
+climber's kit 등반가의 키트
+rope trick 로프 트릭
+athletic 운동
+run 달리기
+
+------------------------------------
+concentrate
+pinned 억류됨
+storm of vengeance 복수의 폭풍
+
+------------------------------------
+craft
+alchemist's lab 연금술사의 연구실
+fabricate 제조
+ironwood 강철나무
+minor creation 하급 창조
+artisan's tools 장인의 도구
+masterwork 걸작
+alchemist's fire 연금술사의 불
+smokestick 연기막대
+tindertwig 부싯깃
+antitoxin 해독제
+sunrod 태양마법막대
+tanglefoot bag 끈끈이 주머니
+thunderstone 천둥돌
+armorsmithing/weaponsmithing 방어구/무기 단조
+bowmaking 활 제작
+trapmaking 함정 제작
+strength rating  강도 등급
+rod 마법막대
+
+---------------------------------
+diplomacy
+
+hostile 적대적
+unfriendly 비우호적
+indifferent 무관심
+friendly 우호적
+helpful 원조적
+negociator 협상가
+
+------------------------------------
+disable device
+
+simple 단순함
+tricky 까다로움
+difficult 어려움
+wicked 악랄함
+nimble fingers 재빠른 손가락
+fire trap 화염 함정
+glyph of warding 경계의 문양
+symbol 상징
+teleportation circle 순간이동진
+spike growth 쐐기 생장
+spike stones 쐐기 암석
+dispel magic 마법 무효화
+
+---------------------------------------------
+disguise
+
+alter self 자기 대체
+disguise self 자기 변장
+polymorph 변이
+shapechange 형상변환
+veil 장막
+true seeing 진실된 시야
+simulacrum 복제물
+deceitful 기만
+
+-----------------------------------
+escape artist
+
+net 그물
+animate rope 살아 움직이는 로프
+command plants 식물 명령
+control plants 식물 조종
+entangle 휘감기
+snare 올무
+
+---------------------------------------
+gather information
+
+investigator 탐구자
+
+---------------------------------------
+handle animal
+
+monstrous humanoid 괴물 휴머노이드
+aberration 기괴체
+scent 냄새 맡기
+animal affinity 동물 친화
+handle 다루기
+push 밀어붙이기
+attack 공격하기
+come 다가오기
+defend 보호하기
+down 물러서기
+fetch 가져오기
+guard 망보기
+heel 뒤따르기
+perform 뽐내기
+seek 수색하기
+stay 머무르기
+track 추적하기
+work 짐 옮기기
+general purpose 일반적인 목적
+combat riding 전투 탑승
+fighting 싸움
+guarding 방호
+heavy labor 중노동
+hunting 사냥
+performance 명령 수행
+riding 탑승
+rear 키우기
+
+---------------------------------
+heal
+
+caltrop 마름쇠
+self-sufficient 자급자족
+healer's kit 치유사의 키트
+
+-------------------------------
+hide
+stealthy 은밀
+cover 엄폐
+concealment 은폐
+
+

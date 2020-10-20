@@ -413,7 +413,7 @@ tongue of the sun and moon 일월지설
 empty body 공허한 육신
 perfect self 열반
 spell resistance 주문 저항
-construct 구조물
+construct 구조체
 ooze 수액괴물
 ethereal 에테르
 etherealness 에테르화
@@ -438,7 +438,7 @@ unconscious 의식 불명
 fear 공포
 dead 사망
 divine spell 신성 주문
-heavy warhorse 고중량 전쟁마 
+heavy warhorse 고중량 전쟁마
 warpony 전쟁나귀
 celestial 천상
 realm 영역
@@ -717,3 +717,8 @@ jump
 
 prone 엎드린
 acrobatic 곡예
+
+------------------------
+Knowledge
+
+vermin 해충

@@ -698,4 +698,13 @@ stealthy 은밀
 cover 엄폐
 concealment 은폐
 
+fine 극소
+diminutive 지소
+tiny 왜소
+small 작음
+
+large 큼
+huge 거대
+gargantuan 지대
+colossal 극대
 

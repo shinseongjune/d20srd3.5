@@ -547,7 +547,7 @@ plane of shadow 그림자의 차원
 
 architecture and engineering 건축학, 공학
 history 역사
-local 현지
+local 토착
 nobility and royalty 귀족, 왕족
 
 

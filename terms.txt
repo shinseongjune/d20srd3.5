@@ -742,3 +742,12 @@ percussion instruments 타악기
 string instruments 현악기
 wind instruments 관악기
 sing 노래
+
+---------------
+Ride
+
+mounted archery 기마 궁술
+mounted combat 기마 전투
+ride-by attack 탑승 공격
+spirited charge 혼신의 돌진
+trample 짓밟기

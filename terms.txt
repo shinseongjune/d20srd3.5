@@ -751,3 +751,9 @@ mounted combat 기마 전투
 ride-by attack 탑승 공격
 spirited charge 혼신의 돌진
 trample 짓밟기
+
+--------------------------
+Search
+
+explosive runes 폭발 룬
+find trap 함정 찾기

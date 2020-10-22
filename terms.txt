@@ -729,3 +729,16 @@ Listen
 --------------------------
 open Lock
 thieves' tools 도둑의 도구
+
+---------------------------
+perform
+
+act 연기
+comedy 코미디
+dance 춤
+keyboard instruments 건반 악기
+oratory 웅변
+percussion instruments 타악기
+string instruments 현악기
+wind instruments 관악기
+sing 노래

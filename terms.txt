@@ -762,3 +762,8 @@ find trap 함정 찾기
 sense Motive
 
 dominate person 인간 지배
+
+---------------------------
+sleight of hand
+
+deft hands 손재주

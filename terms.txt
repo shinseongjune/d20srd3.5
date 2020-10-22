@@ -757,3 +757,8 @@ Search
 
 explosive runes 폭발 룬
 find trap 함정 찾기
+
+--------------------------
+sense Motive
+
+dominate person 인간 지배

@@ -118,7 +118,7 @@ multiclass 다중직업
 
 common 공용어
 abyssal 심연어
-celestial 셀레스티얼어, 셀레스티얼
+celestial 천상어, 셀레스티얼
 infernal 지옥어
 sylvan 숲어
 draconic 용족어
@@ -767,3 +767,27 @@ dominate person 인간 지배
 sleight of hand
 
 deft hands 손재주
+
+----------------------------
+speak language
+
+abyssal 심연어
+aquan 수중어
+auran 대기어
+celestial 천상어
+common 공용어
+draconic 용족어
+druidic 드루이드어
+dwarven 드워프어
+elven 엘프어
+giant 거인어
+gnome 노움어
+goblin 고블린어
+gnoll 놀어
+halfling 하플링어
+ignan 화염어
+infernal 지옥어
+orc 오크어
+sylvan 숲어
+terran 대지어
+undercommon 지하공용어

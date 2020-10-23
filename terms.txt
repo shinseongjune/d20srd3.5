@@ -805,3 +805,8 @@ magic circle 마법의 원
 Tumble
 fighting defensively 수비적으로 싸움
 total defense 완전 방어
+
+-----------------------------
+use magic Device
+
+wand 마법봉

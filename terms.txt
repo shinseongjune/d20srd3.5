@@ -86,7 +86,7 @@ disable device 장치 비활성화
 forgery 위조
 knowledge 지식
 search 탐색
-spellcraft 주문 제작
+spellcraft 주문 공예
 
 animal 동물
 
@@ -791,3 +791,12 @@ orc 오크어
 sylvan 숲어
 terran 대지어
 undercommon 지하공용어
+
+------------------------------
+Spellcraft
+
+read magic 마법 읽기
+wall of iron 철의 벽
+magical aptitude 마법 적성
+dimensional anchor 차원의 닻
+magic circle 마법의 원

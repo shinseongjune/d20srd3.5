@@ -1,7 +1,7 @@
 수도사
 모든 질서 성향
 
-균형잡기 (Dex), 등반 (Str), 집중 (Con), 제작 (Int), 외교 (Cha), 탈출의 명수 (Dex), 숨기 (Dex), 점프 (Str), 지식 (비전) (Int), 지식 (종교) (Int), 듣기 (Wis), 조용히 움직이기 (Dex), 공연 (Cha), 직업 활동 (Wis), 간파 (Wis), 색출 (Wis), 수영 (Str), 공중제비 (Dex)
+균형잡기 (Dex), 등반 (Str), 집중 (Con), 제작 (Int), 외교 (Cha), 탈출의 명수 (Dex), 숨기 (Dex), 점프 (Str), 지식 (비전) (Int), 지식 (종교) (Int), 듣기 (Wis), 조용히 움직이기 (Dex), 공연 (Cha), 직업 활동 (Wis), 간파 (Wis), 색출 (Wis), 수영 (Str), 구르기 (Dex)
 
 무기, 방어구 숙련(Weapon and Armor Proficiency)
 수도사는 곤봉, 쇠뇌(경량, 고중량), 단도, 손도끼, 투창, 카마(kama), 쌍절곤, 지팡이, 필가차, 수리검, 샹함(siangham), 슬링에 숙련되어 있습니다.

@@ -73,7 +73,7 @@ move silently 조용히 움직이기
 open lock 잠금 해제
 ride 탑승
 sleight of hand 손기술
-tumble 공중제비
+tumble 구르기
 use rope 로프 사용
 
 fortitude svaing throw 인내 극복 굴림
@@ -800,3 +800,8 @@ wall of iron 철의 벽
 magical aptitude 마법 적성
 dimensional anchor 차원의 닻
 magic circle 마법의 원
+
+-----------------------------
+Tumble
+fighting defensively 수비적으로 싸움
+total defense 완전 방어

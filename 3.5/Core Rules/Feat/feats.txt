@@ -1,0 +1,42 @@
+특기(Feats)
+
+전제조건(Prerequisites)
+
+
+특기의 종류(Types Of Feats)
+
+
+격투가 보너스 특기(Fighter Bonus Feats)
+
+
+아이템 창조 특기(Item Creation Feats)
+
+
+메타마법 특기(Metamagic Feats)
+
+
+특기 설명(Feat Description)
+
+
+곡예(Acrobatic)
+
+
+기민함(Agile)
+
+
+경각심(Alertness)
+
+
+동물 친화(Animal Affinity)
+
+
+방어구 숙련 (무거움)(Armor Proficiency (Heavy))
+
+
+방어구 숙련 (가벼움)(Armor Proficiency (light))
+
+
+방어구 숙련 (보통)(Armor Proficiency (Medium))
+
+
+운동(Athletic)

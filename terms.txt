@@ -861,3 +861,5 @@ weapon focus 무기 집중
 weapon specialization 무기 전문화
 greater weapon focus 대단한 무기 집중
 greater weapon specialization 대단한 무기 전문화
+
+quicken spell 주문 가속화

@@ -220,7 +220,7 @@ wand 마법봉
 spell trigger 주문 격발
 scroll 주문서
 spell completion 주문 완성
-combat expertise 전투 전문지식
+combat expertise 전투 숙련
 item creation 아이템 창조
 metamagic 메타마법
 
@@ -815,3 +815,49 @@ wand 마법봉
 Feat
 
 augment summoning 증강 소환
+blind-fight 눈먼 싸움
+combat expertise 전투 숙련
+improved disarm/feint/trip 향상된 무장해제/교란/다리걸기
+whirlwind attack 소용돌이 공격
+combat reflexes 전투 반사신경
+dodge 회피
+mobility 기동력
+spring attack 튀어오르는 공격
+exotic weapon proficiency 낯선 무기 숙련
+improved critical 향상된 치명타
+improved initiative 향상된 선제공격
+improved shield bash 향상된 방패 가격
+improved unarmed strike 향상된 맨손 타격
+deflect arrows 화살 튕겨내기
+improved grapple 향상된 그래플링
+snatch arrows 화살 붙잡기
+stunning fist 뇌진탕 주먹
+mounted combat 기마 전투
+mounted archery 기마 궁술
+ride-by attack 탑승 공격
+spirited charge 혼신의 돌진
+trample 짓밟기
+point blank shot 근접 사격
+far shot 장거리 사격
+precise shot 정밀 사격
+rapid shot 속사
+manyshot 다발사격
+shot on the run 이동 사격
+improved precise shot 향상된 정밀 사격
+power attack 강타
+cleave 가르기
+great cleave 크게 가르기
+improved bull rush 향상된 황소돌진
+improved overrun 향상된 뛰어넘기
+improved sunder 향상된 쳐부수기
+quick draw 빨리 뽑기
+rapid reload 빠른 장전
+two-weapon fighting 쌍수 전투
+two-weapon defense 쌍수 방어
+improved two-weapon fighting 향상된 쌍수 전투
+greater two-weapon fighting 대단한 쌍수 전투
+weapon finesse 무기 기교
+weapon focus 무기 집중
+weapon specialization 무기 전문화
+greater weapon focus 대단한 무기 집중
+greater weapon specialization 대단한 무기 전문화

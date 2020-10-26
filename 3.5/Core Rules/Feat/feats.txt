@@ -165,3 +165,12 @@ XP 비용
 
 
 증강 소환(Augment Summoning)
+
+
+눈먼 싸움(Blind-Fight)
+
+
+물약 조제(Brew Potion)
+
+
+가르기(Cleave)

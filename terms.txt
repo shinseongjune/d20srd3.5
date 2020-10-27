@@ -817,7 +817,7 @@ Feat
 augment summoning 증강 소환
 blind-fight 눈먼 싸움
 combat expertise 전투 숙련
-improved disarm/feint/trip 향상된 무장해제/교란/다리걸기
+improved disarm/feint/trip 향상된 무장해제/교란/다리 걸기
 whirlwind attack 소용돌이 공격
 combat reflexes 전투 반사신경
 dodge 회피
@@ -847,7 +847,7 @@ improved precise shot 향상된 정밀 사격
 power attack 강타
 cleave 가르기
 great cleave 크게 가르기
-improved bull rush 향상된 황소돌진
+improved bull rush 향상된 황소 돌진
 improved overrun 향상된 뛰어넘기
 improved sunder 향상된 쳐부수기
 quick draw 빨리 뽑기
@@ -862,4 +862,63 @@ weapon specialization 무기 전문화
 greater weapon focus 대단한 무기 집중
 greater weapon specialization 대단한 무기 전문화
 
+combat casting 전투 시전
+craft magic arms and armor 마법 무기, 방어구 제작
+craft rod 마법막대 제작
+craft staff 지팡이 제작
+craft wand 마법봉 제작
+craft wondrous item 경이 아이템 제작
+deceitful 기만
+deflect arrows 화살 튕겨내기
+deft hands 손재주
+diehard 불사
+diligent 근면
+dodge 회피
+endurance 지구력
+eschew materials 물질 기피
+exotic weapon proficiency 낯선 무기 숙련
+extra turning 추가 퇴치
+forge ring 반지 단조
+great fortitude 대단한 인내
+greater spell penetration 대단한 주문 관통
+improved counterspell 향상된 받아치기주문
+improved familiar 향상된 사역마
+improved trip 향상된 다리 걸기
+improved turning 향상된 퇴치
+investigator 탐구자
+iron will 철의 의지
+leadership 지도력
+lightning reflexes 번개 같은 반사신경
+magical aptitude 마법 적성
+martial weapon proficiency 군용 무기 숙련
+mobility 기동력
+natural spell 자연 주문
+negotiator 협상가
+nimble fingers 재빠른 손가락
+persuasive 설득력
+run 달리기
+scribe scroll 두루마리 쓰기
+self-sufficient 자급자족
+shield proficiency 방패 숙련
+simple weapon proficiency 단순 무기 숙련
+skill focus 스킬 집중
+spell focus 주문 집중
+spell mastery 주문 통달
+spell penetration 주문 관통
+stealthy 은밀
+stunning fist 뇌진탕 주먹
+toughness 굳건함
+tower shield proficiency 보루 방패 숙련
+track 추적
+trample 짓밟기
+
+
+empower spell 주문 강화
+enlarge spell 주문 확대
+extend spell 주문 연장
+heighten spell 주문 고급화
+maximize spell 주문 극대화
 quicken spell 주문 가속화
+silent spell 주문 묵언화
+still spell 주문 부동화
+widen spell 주문 산개

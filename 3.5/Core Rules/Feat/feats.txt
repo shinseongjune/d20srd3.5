@@ -174,3 +174,297 @@ XP 비용
 
 
 가르기(Cleave)
+
+
+전투 시전(Combat Casting)
+
+
+전투 숙련(Combat Expertise)
+
+
+전투 반사신경(Combat Reflexes)
+
+
+마법 무기, 방어구 제작(Craft Magic Arms And Armor)
+
+
+마법막대 제작(Craft Rod)
+
+
+지팡이 제작(Craft Staff)
+
+
+마법봉 제작(Craft Wand)
+
+
+경이 아이템 제작(Craft Wondrous Item)
+
+
+기만(Deceitful)
+
+
+화살 튕겨내기(Deflect Arrows)
+
+
+손재주(Deft Hands)
+
+
+불사(Diehard)
+
+
+근면(Diligent)
+
+
+회피(Dodge)
+
+
+주문 강화(Empower Spell)
+
+
+지구력(Endurance)
+
+
+주문 확대(Enlarge Spell)
+
+
+물질 기피(Eschew Materials)
+
+
+낯선 무기 숙련(Exotic Weapon Proficiency)
+
+
+주문 연장(Extend Spell)
+
+
+추가 퇴치(Extra Turning)
+
+
+장거리 사격(Far Shot)
+
+
+반지 단조(Forge Ring)
+
+
+크게 가르기(Great Cleave)
+
+
+대단한 인내(Great Fortitude)
+
+
+대단한 주문 집중(Greater Spell Focus)
+
+
+대단한 주문 관통(Greater Spell Penetration)
+
+
+대단한 쌍수 전투(Greater Two-Weapon Fighting)
+
+
+대단한 무기 집중(Greater Weapon Focus)
+
+
+대단한 무기 전문화(Greater Weapon Specialization)
+
+
+주문 고급화(Heighten Spell)
+
+
+향상된 황소 돌진(Improved Bull Rush)
+
+
+향상된 받아치기주문(Improved Counterspell)
+
+
+향상된 치명타(Improved Critical)
+
+
+향상된 무장해제(Improved Disarm)
+
+
+향상된 사역마(Improved Familiar)
+
+
+향상된 교란(Improved Feint)
+
+
+향상된 그래플링(Improved Grapple)
+
+
+향상된 선제공격(Improved Initiative)
+
+
+향상된 뛰어넘기(Improved Overrun)
+
+
+향상된 정밀 사격(Improved Precise Shot)
+
+
+향상된 방패 가격(Improved Shield Bash)
+
+
+향상된 쳐부수기(Improved Sunder)
+
+
+향상된 다리 걸기(Improved Trip)
+
+
+향상된 퇴치(Improved Turning)
+
+
+향상된 쌍수 전투(Improved Two-Weapon Fighting)
+
+
+향상된 맨손 타격(Improved Unarmed Strike)
+
+
+탐구자(Investigator)
+
+
+철의 의지(Iron Will)
+
+
+지도력(Leadership)
+
+
+번개 같은 반사신경(Lightning Reflexes)
+
+
+마법 적성(Magical Aptitude)
+
+
+다발사격(Manyshot)
+
+
+군용 무기 숙련(Martial Weapon Proficiency)
+
+
+주문 극대화(Maximize Spell)
+
+
+기동력(MObility)
+
+
+기마 궁술(Mounted Archery)
+
+
+기마 전투(Mounted Combat)
+
+
+자연 주문(Natural Spell)
+
+
+협상가(Negotiator)
+
+
+재빠른 손가락(Nimble Fingers)
+
+
+설득력(Persuasive)
+
+
+근접 사격(Point Blank Shot)
+
+
+강타(Power Attack)
+
+
+정밀 사격(Precise Shot)
+
+
+빨리 뽑기(Quick Draw)
+
+
+주문 가속화(Quicken Spell)
+
+
+빠른 장전(Rapid Reload)
+
+
+속사(Rapid Shot)
+
+
+탑승 공격(Ride-By Attack)
+
+
+달리기(Run)
+
+
+두루마리 쓰기(Scribe Scroll)
+
+
+자급자족(Self-Sufficient)
+
+
+방패 숙련(shield Proficiency)
+
+
+이동 사격(Shot On The Run)
+
+
+주문 묵언화(Silent Spell)
+
+
+단순 무기 숙련(Simple Weapon Proficiency)
+
+
+스킬 집중(Skill Focus)
+
+
+화살 붙잡기(Snatch Arrows)
+
+
+주문 집중(Spell Focus)
+
+
+주문 통달(Spell Mastery)
+
+
+주문 관통(Spell Penetration)
+
+
+혼신의 돌진(Spirited Charge)
+
+
+튀어오르는 공격(Spring Attack)
+
+
+은밀(Stealthy)
+
+
+주문 부동화(Still Spell)
+
+
+뇌진탕 주먹(Stunning Fist)
+
+
+굳건함(Toughness)
+
+
+보루 방패 숙련(Tower Shield Proficiency)
+
+
+추적(Track)
+
+
+짓밟기(Trample)
+
+
+쌍수 방어(Two-Weapon Defense)
+
+
+쌍수 전투(Two-Weapon Fighting)
+
+
+무기 기교(Weapon Finesse)
+
+
+무기 집중(Weapon Focus)
+
+
+무기 전문화(Weapon Specialization)
+
+
+소용돌이 공격(Whirlwind Attack)
+
+
+주문 산개(Widen Spell)

@@ -155,323 +155,383 @@ XP 비용
 특수
 사역마의 주인은 사역마가 한 팔 거리 내에 있을 때 경각심 특기의 효과를 얻습니다.
 
-동물 친화(Animal Affinity)
+동물 친화(Animal Affinity) [일반]
 이득
 모든 동물 다루기 체크와 탑승 체크에 +2 보너스를 얻습니다.
 
-방어구 숙련 (무거움)(Armor Proficiency (Heavy))
+방어구 숙련 (무거움)(Armor Proficiency (Heavy)) [일반]
+전제조건
+방어구 숙련 (가벼움), 방어구 숙련 (보통)
 
+이득
+방어구 숙련 (가벼움)을 참조하십시오.
 
-방어구 숙련 (가벼움)(Armor Proficiency (light))
+일반
+방어구 숙련 (가벼움)을 참조하십시오.
 
+특수
+격투가, 성기사, 성직자는 자동으로 방어구 숙련 (무거움)을 보너스 특기로 가집니다. 해당 직업은 이 특기를 선택할 필요가 없습니다.
 
-방어구 숙련 (보통)(Armor Proficiency (Medium))
+방어구 숙련 (가벼움)(Armor Proficiency (light)) [일반]
+이득
+자신이 숙련된 유형의 방어구를 착용한 경우, 해당 방어구의 방어구 체크 페널티는 오직 균형잡기, 등반, 탈출의 명수, 숨기, 점프, 조용히 움직이기, 손기술, 구르기 체크에만 적용됩니다.
 
+일반
+숙련되지 않은 유형의 방어구를 착용한 경우, 해당 방어구의 방어구 체크 페널티는 공격 굴림과 탑승을 포함해서 이동을 하는 모든 스킬 체크에 적용됩니다.
 
-운동(Athletic)
+특수
+마법사, 원소술사, 수도사를 제외한 모든 캐릭터는 자동으로 방어구 숙련 (가벼움)을 보너스 특기로 획득합니다. 해당 직업은 이 특기를 선택할 필요가 없습니다.
 
+방어구 숙련 (보통)(Armor Proficiency (Medium)) [일반]
+전제조건
+방어구 숙련 (가벼움)
 
-증강 소환(Augment Summoning)
+이득
+방어구 숙련 (가벼움)을 참조하십시오.
 
+일반
+방어구 숙련 (가벼움)을 참조하십시오.
 
-눈먼 싸움(Blind-Fight)
+특수
+격투가, 야만용사, 성기사, 성직자, 드루이드, 음유시인은 자동으로 방어구 숙련 (보통)을 보너스 특기로 얻습니다. 해당 직업은 이 특기를 선택할 필요가 없습니다.
 
+운동(Athletic) [일반]
+이득
+등반 체크와 수영 체크에 +2 보너스를 얻습니다.
 
-물약 조제(Brew Potion)
+증강 소환(Augment Summoning) [일반]
+전제조건
+주문 집중 (생성).
 
+이득
+소환 주문으로 생성된 각 생물은 소환 주문의 지속시간 동안 힘과 체질에 +4 향상 보너스를 얻습니다.
 
-가르기(Cleave)
+눈먼 싸움(Blind-Fight) [일반]
+이득
+근접전에서, 은폐 때문에 공격이 빗나갈 때마다, 실패한 백분율 굴림을 다시 한 번 수행하여 적중 여부를 확인합니다.
 
+투명한 공격자는 근접전에서 이 특기를 가진 캐릭터를 공격할 때 아무 이점을 가지지 않습니다. 즉, 그 캐릭터는 방어 수준에 적용되는 민첩 보너스를 잃지 않고, 공격자는 보이지 않아서 일반적으로 얻을 수 있는 +2 보너스를 얻지 못합니다. 하지만 원거리 공격에는 여전히 투명한 공격자의 보너스가 적용됩니다.
 
-전투 시전(Combat Casting)
+시력을 잃은 상황에 속도에 일반적으로 적용되는 페널티도 오직 절반만 가집니다. 암흑과 낮은 가시성은 일반적으로 속도를 절반이 아니라 4분의3만큼 줄입니다.
 
+일반
+이 특기를 가지지 못한 캐릭터를 공격할 때 투명한 공격자에게는 일반적인 공격 굴림 수정치가 적용되며, 해당 캐릭터는 AC에 적용되는 민첩 보너스를 잃습니다. 암흑과 낮은 가시성으로 인한 속도 저하 또한 적용됩니다.
 
-전투 숙련(Combat Expertise)
+특수
+눈먼 싸움 특기는 점멸 주문의 대상인 캐릭터와 맞설 때는 효과가 없습니다.
 
+격투가는 자신의 격투가 보너스 특기로 눈먼 싸움을 선택할 수 있습니다.
 
-전투 반사신경(Combat Reflexes)
+물약 조제(Brew Potion) [아이템 창조]
+전제조건
+시전자 레벨 3.
 
+이득
+알고 있으며 대상이 하나 이상의 생물인 3레벨 이하인 주문을 담은 물약을 창조할 수 있습니다. 물약 조제는 하루가 걸립니다. 물약을 만들 때는, 시전자 레벨을 설정합니다. 그 레벨은 반드시 해당 주문을 시전할 만큼이어야 하며, 창조자 자신의 레벨보다 높지 않아야 합니다. 물약의 기본 가격은 주문 레벨 × 시전자 레벨 × 50 gp입니다. 물약을 조제하려면, 반드시 이 기본 가격의 25분의1만큼의 XP를 소모하고 이 기본 가격의 절반의 가치를 가지는 원자재를 사용해야 합니다.
 
-마법 무기, 방어구 제작(Craft Magic Arms And Armor)
+물약을 창조할 때는, 해당 주문을 시전할 때 일반적으로 수행하는 모든 선택을 수행합니다. 물약을 마시는 사람이 해당 주문의 대상입니다.
 
+값비싼 물질 요소나 XP 비용을 가지는 주문을 저장한 모든 물약은 그에 상응하는 비용을 발생시킵니다. 그러한 물약을 창조할 때는 기본 가격으로부터 유래된 비용에 더해, 반드시 물질 요소를 소비하거나 XP를 지불해야 합니다.
 
-마법막대 제작(Craft Rod)
+가르기(Cleave) [일반]
+전제조건
+Str 13, 강타.
 
+이득
+생물을 쓰러뜨릴 만큼 충분한 피해를 주었다면(일반적으 체력을 0 이하로 떨어뜨리거나 죽이면), 사정거리 안의 다른 생물에 대한즉각적인 추가 근접 공격을 얻습니다. 이 추가 공격을 수행하기 전에는 5피 도약을 할 수 없습니다. 이 추가 공격은 이전의 생물을 쓰러뜨린 공격과 같은 무기로 행해지며 같은 보너스를 받습니다. 이 능력은 라운드 당 한 번 사용할 수 있습니다.
 
-지팡이 제작(Craft Staff)
+특수
+격투가는 가르기를 자신의 격투가 보너스 특기로 선택할 수 있습니다.
 
+전투 시전(Combat Casting) [일반]
 
-마법봉 제작(Craft Wand)
 
+전투 숙련(Combat Expertise) [일반]
 
-경이 아이템 제작(Craft Wondrous Item)
 
+전투 반사신경(Combat Reflexes) [일반]
 
-기만(Deceitful)
 
+마법 무기, 방어구 제작(Craft Magic Arms And Armor) [아이템 창조]
 
-화살 튕겨내기(Deflect Arrows)
 
+마법막대 제작(Craft Rod) [아이템 창조]
 
-손재주(Deft Hands)
 
+지팡이 제작(Craft Staff) [아이템 창조]
 
-불사(Diehard)
 
+마법봉 제작(Craft Wand) [아이템 창조]
 
-근면(Diligent)
 
+경이로운 아이템 제작(Craft Wondrous Item) [아이템 창조]
 
-회피(Dodge)
 
+기만(Deceitful) [일반]
 
-주문 강화(Empower Spell)
 
+화살 튕겨내기(Deflect Arrows) [일반]
 
-지구력(Endurance)
 
+손재주(Deft Hands) [일반]
 
-주문 확대(Enlarge Spell)
 
+불사(Diehard) [일반]
 
-물질 기피(Eschew Materials)
 
+근면(Diligent) [일반]
 
-낯선 무기 숙련(Exotic Weapon Proficiency)
 
+회피(Dodge) [일반]
 
-주문 연장(Extend Spell)
 
+주문 강화(Empower Spell) [메타마법]
 
-추가 퇴치(Extra Turning)
 
+지구력(Endurance) [일반]
 
-장거리 사격(Far Shot)
 
+주문 확대(Enlarge Spell) [메타마법]
 
-반지 단조(Forge Ring)
 
+물질 기피(Eschew Materials) [일반]
 
-크게 가르기(Great Cleave)
 
+낯선 무기 숙련(Exotic Weapon Proficiency) [일반]
 
-대단한 인내(Great Fortitude)
 
+주문 연장(Extend Spell) [메타마법]
 
-대단한 주문 집중(Greater Spell Focus)
 
+추가 퇴치(Extra Turning) [일반]
 
-대단한 주문 관통(Greater Spell Penetration)
 
+장거리 사격(Far Shot) [일반]
 
-대단한 쌍수 전투(Greater Two-Weapon Fighting)
 
+반지 단조(Forge Ring) [아이템 창조]
 
-대단한 무기 집중(Greater Weapon Focus)
 
+크게 가르기(Great Cleave) [일반]
 
-대단한 무기 전문화(Greater Weapon Specialization)
 
+대단한 인내(Great Fortitude) [일반]
 
-주문 고급화(Heighten Spell)
 
+대단한 주문 집중(Greater Spell Focus) [일반]
 
-향상된 황소 돌진(Improved Bull Rush)
 
+대단한 주문 관통(Greater Spell Penetration) [일반]
 
-향상된 받아치기주문(Improved Counterspell)
 
+대단한 쌍수 전투(Greater Two-Weapon Fighting) [일반]
 
-향상된 치명타(Improved Critical)
 
+대단한 무기 집중(Greater Weapon Focus) [일반]
 
-향상된 무장해제(Improved Disarm)
 
+대단한 무기 전문화(Greater Weapon Specialization) [일반]
 
-향상된 사역마(Improved Familiar)
 
+주문 고급화(Heighten Spell) [메타마법]
 
-향상된 교란(Improved Feint)
 
+향상된 황소 돌진(Improved Bull Rush) [일반]
 
-향상된 그래플링(Improved Grapple)
 
+향상된 받아치기주문(Improved Counterspell) [일반]
 
-향상된 선제공격(Improved Initiative)
 
+향상된 치명타(Improved Critical) [일반]
 
-향상된 뛰어넘기(Improved Overrun)
 
+향상된 무장해제(Improved Disarm) [일반]
 
-향상된 정밀 사격(Improved Precise Shot)
 
+향상된 사역마(Improved Familiar) [일반]
 
-향상된 방패 가격(Improved Shield Bash)
 
+향상된 교란(Improved Feint) [일반]
 
-향상된 쳐부수기(Improved Sunder)
 
+향상된 그래플링(Improved Grapple) [일반]
 
-향상된 다리 걸기(Improved Trip)
 
+향상된 선제공격(Improved Initiative) [일반]
 
-향상된 퇴치(Improved Turning)
 
+향상된 뛰어넘기(Improved Overrun) [일반]
 
-향상된 쌍수 전투(Improved Two-Weapon Fighting)
 
+향상된 정밀 사격(Improved Precise Shot) [일반]
 
-향상된 맨손 타격(Improved Unarmed Strike)
 
+향상된 방패 가격(Improved Shield Bash) [일반]
 
-탐구자(Investigator)
 
+향상된 쳐부수기(Improved Sunder) [일반]
 
-철의 의지(Iron Will)
 
+향상된 다리 걸기(Improved Trip) [일반]
 
-지도력(Leadership)
 
+향상된 퇴치(Improved Turning) [일반]
 
-번개 같은 반사신경(Lightning Reflexes)
 
+향상된 쌍수 전투(Improved Two-Weapon Fighting) [일반]
 
-마법 적성(Magical Aptitude)
 
+향상된 맨손 타격(Improved Unarmed Strike) [일반]
 
-다발사격(Manyshot)
 
+탐구자(Investigator) [일반]
 
-군용 무기 숙련(Martial Weapon Proficiency)
 
+철의 의지(Iron Will) [일반]
 
-주문 극대화(Maximize Spell)
 
+지도력(Leadership) [일반]
 
-기동력(MObility)
 
+번개 같은 반사신경(Lightning Reflexes) [일반]
 
-기마 궁술(Mounted Archery)
 
+마법 적성(Magical Aptitude) [일반]
 
-기마 전투(Mounted Combat)
 
+다발사격(Manyshot) [일반]
 
-자연 주문(Natural Spell)
 
+군용 무기 숙련(Martial Weapon Proficiency) [일반]
 
-협상가(Negotiator)
 
+주문 극대화(Maximize Spell) [메타마법]
 
-재빠른 손가락(Nimble Fingers)
 
+기동력(MObility) [일반]
 
-설득력(Persuasive)
 
+기마 궁술(Mounted Archery) [일반]
 
-근접 사격(Point Blank Shot)
 
+기마 전투(Mounted Combat) [일반]
 
-강타(Power Attack)
 
+자연 주문(Natural Spell) [일반]
 
-정밀 사격(Precise Shot)
 
+협상가(Negotiator) [일반]
 
-빨리 뽑기(Quick Draw)
 
+재빠른 손가락(Nimble Fingers) [일반]
 
-주문 가속화(Quicken Spell)
 
+설득력(Persuasive) [일반]
 
-빠른 장전(Rapid Reload)
 
+근접 사격(Point Blank Shot) [일반]
 
-속사(Rapid Shot)
 
+강타(Power Attack) [일반]
 
-탑승 공격(Ride-By Attack)
 
+정밀 사격(Precise Shot) [일반]
 
-달리기(Run)
 
+빨리 뽑기(Quick Draw) [일반]
 
-두루마리 쓰기(Scribe Scroll)
 
+주문 가속화(Quicken Spell) [메타마법]
 
-자급자족(Self-Sufficient)
 
+빠른 장전(Rapid Reload) [일반]
 
-방패 숙련(shield Proficiency)
 
+속사(Rapid Shot) [일반]
 
-이동 사격(Shot On The Run)
 
+탑승 공격(Ride-By Attack) [일반]
 
-주문 묵언화(Silent Spell)
+
+달리기(Run) [일반]
+
+
+두루마리 쓰기(Scribe Scroll) [메타마법]
+
+
+자급자족(Self-Sufficient) [일반]
+
+
+방패 숙련(shield Proficiency) [일반]
+
+
+이동 사격(Shot On The Run) [일반]
+
+
+주문 묵언화(Silent Spell) [메타마법]
 
 
 단순 무기 숙련(Simple Weapon Proficiency)
 
 
-스킬 집중(Skill Focus)
+스킬 집중(Skill Focus) [일반]
 
 
-화살 붙잡기(Snatch Arrows)
+화살 붙잡기(Snatch Arrows) [일반]
 
 
-주문 집중(Spell Focus)
+주문 집중(Spell Focus) [일반]
 
 
-주문 통달(Spell Mastery)
+주문 통달(Spell Mastery) [일반]
 
 
-주문 관통(Spell Penetration)
+주문 관통(Spell Penetration) [일반]
 
 
-혼신의 돌진(Spirited Charge)
+혼신의 돌진(Spirited Charge) [일반]
 
 
-튀어오르는 공격(Spring Attack)
+튀어오르는 공격(Spring Attack) [일반]
 
 
-은밀(Stealthy)
+은밀(Stealthy) [일반]
 
 
-주문 부동화(Still Spell)
+주문 부동화(Still Spell) [메타마법]
 
 
-뇌진탕 주먹(Stunning Fist)
+뇌진탕 주먹(Stunning Fist) [일반]
 
 
-굳건함(Toughness)
+굳건함(Toughness) [일반]
 
 
-보루 방패 숙련(Tower Shield Proficiency)
+보루 방패 숙련(Tower Shield Proficiency) [일반]
 
 
-추적(Track)
+추적(Track) [일반]
 
 
-짓밟기(Trample)
+짓밟기(Trample) [일반]
 
 
-쌍수 방어(Two-Weapon Defense)
+쌍수 방어(Two-Weapon Defense) [일반]
 
 
-쌍수 전투(Two-Weapon Fighting)
+쌍수 전투(Two-Weapon Fighting) [일반]
 
 
-무기 기교(Weapon Finesse)
+무기 기교(Weapon Finesse) [일반]
 
 
-무기 집중(Weapon Focus)
+무기 집중(Weapon Focus) [일반]
 
 
-무기 전문화(Weapon Specialization)
+무기 전문화(Weapon Specialization) [일반]
 
 
-소용돌이 공격(Whirlwind Attack)
+소용돌이 공격(Whirlwind Attack) [일반]
 
 
-주문 산개(Widen Spell)
+주문 산개(Widen Spell) [메타마법]

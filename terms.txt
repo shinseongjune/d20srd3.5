@@ -867,7 +867,7 @@ craft magic arms and armor 마법 무기, 방어구 제작
 craft rod 마법막대 제작
 craft staff 지팡이 제작
 craft wand 마법봉 제작
-craft wondrous item 경이 아이템 제작
+craft wondrous item 경이로운 아이템 제작
 deceitful 기만
 deflect arrows 화살 튕겨내기
 deft hands 손재주
@@ -922,3 +922,5 @@ quicken spell 주문 가속화
 silent spell 주문 묵언화
 still spell 주문 부동화
 widen spell 주문 산개
+
+5-foot step 5피트 도약

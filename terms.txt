@@ -924,3 +924,5 @@ still spell 주문 부동화
 widen spell 주문 산개
 
 5-foot step 5피트 도약
+disable 불구 상태
+unconscious 혼수상태

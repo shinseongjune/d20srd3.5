@@ -848,7 +848,7 @@ power attack 강타
 cleave 가르기
 great cleave 크게 가르기
 improved bull rush 향상된 황소 돌진
-improved overrun 향상된 뛰어넘기
+improved overrun 향상된 돌파
 improved sunder 향상된 쳐부수기
 quick draw 빨리 뽑기
 rapid reload 빠른 장전
@@ -926,3 +926,9 @@ widen spell 주문 산개
 5-foot step 5피트 도약
 disable 불구 상태
 unconscious 혼수상태
+
+spiked chain 가시 박힌 사슬
+special attack 특수 공격
+ray 광선
+
+double weapon 양손 무기

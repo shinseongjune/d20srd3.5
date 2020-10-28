@@ -932,3 +932,4 @@ special attack 특수 공격
 ray 광선
 
 double weapon 양손 무기
+globe of invulnerability 무적의 보주

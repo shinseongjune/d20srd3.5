@@ -893,7 +893,7 @@ lightning reflexes 번개 같은 반사신경
 magical aptitude 마법 적성
 martial weapon proficiency 군용 무기 숙련
 mobility 기동력
-natural spell 자연 주문
+natural spell 자연의 주문
 negotiator 협상가
 nimble fingers 재빠른 손가락
 persuasive 설득력

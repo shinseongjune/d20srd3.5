@@ -349,8 +349,6 @@ alternate form 형상 교체
 
 attack of opportunity 기회 공격
 
-tiny 초소형
-huge 거대
 plant creature 식물 생물
 elemental 원소정령
 
@@ -792,6 +790,9 @@ sylvan 숲어
 terran 대지어
 undercommon 지하공용어
 
+troglodyte 동굴도마뱀
+lizardfolk 도마뱀인
+
 ------------------------------
 Spellcraft
 
@@ -933,3 +934,5 @@ ray 광선
 
 double weapon 양손 무기
 globe of invulnerability 무적의 보주
+
+subtype 보조유형

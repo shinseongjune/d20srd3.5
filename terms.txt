@@ -956,3 +956,4 @@ cold 냉기
 electricity 전기
 
 shield bash 방패 가격
+cohort 무리

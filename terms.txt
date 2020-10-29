@@ -790,7 +790,7 @@ sylvan 숲어
 terran 대지어
 undercommon 지하공용어
 
-troglodyte 동굴도마뱀
+troglodyte 혈거도마뱀
 lizardfolk 도마뱀인
 
 ------------------------------
@@ -936,3 +936,23 @@ double weapon 양손 무기
 globe of invulnerability 무적의 보주
 
 subtype 보조유형
+
+shocker lizard 충격 도마뱀
+viper 독사
+fiendish 마계
+homunculus 호문쿨루스
+mephit 메피트
+stirge 스터지
+formian 포미언
+imp 임프
+pseudodragon 허위룡
+quasit 콰짓
+
+air 공기
+earth 대지
+fire 불
+water 물
+cold 냉기
+electricity 전기
+
+shield bash 방패 가격

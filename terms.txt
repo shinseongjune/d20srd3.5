@@ -960,3 +960,4 @@ cohort 무리
 follower 추종자
 
 lance 창
+pass without trace 자취 없는 통행

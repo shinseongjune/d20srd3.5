@@ -964,3 +964,5 @@ pass without trace 자취 없는 통행
 
 -----------------------------------------
 surprise round 돌발 라운드
+reach weapon 장거리 무기
+withdraw 후퇴

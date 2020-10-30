@@ -961,3 +961,6 @@ follower 추종자
 
 lance 창
 pass without trace 자취 없는 통행
+
+-----------------------------------------
+surprise round 돌발 라운드

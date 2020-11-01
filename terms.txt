@@ -966,3 +966,9 @@ pass without trace 자취 없는 통행
 surprise round 돌발 라운드
 reach weapon 장거리 무기
 withdraw 후퇴
+
+range increment 사거리 증분
+aid another 조력
+dismiss a spell 주문 해제
+extraordinary ability (Ex) 특급 능력
+supernatural ability 초자연 능력

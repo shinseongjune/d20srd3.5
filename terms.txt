@@ -983,3 +983,5 @@ sling bullet 슬링 탄환
 shuriken 수리검
 coup de grace 최후의 일격
 repeating 연발
+locked gauntlet 잠금형 건틀릿
+splash weapon 광역피해 무기

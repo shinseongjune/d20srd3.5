@@ -975,3 +975,11 @@ supernatural ability 초자연 능력
 
 deafened 귀먹음
 use-activated item 사용 시 활성화 아이템
+accelerated climbing 고속 등반
+crawling 기어가기
+arrow 화살
+bolt 석궁 화살
+sling bullet 슬링 탄환
+shuriken 수리검
+coup de grace 최후의 일격
+repeating 연발

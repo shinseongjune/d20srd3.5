@@ -972,3 +972,5 @@ aid another 조력
 dismiss a spell 주문 해제
 extraordinary ability (Ex) 특급 능력
 supernatural ability 초자연 능력
+
+deafened 귀먹음

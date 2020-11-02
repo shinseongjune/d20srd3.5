@@ -974,3 +974,4 @@ extraordinary ability (Ex) 특급 능력
 supernatural ability 초자연 능력
 
 deafened 귀먹음
+use-activated item 사용 시 활성화 아이템

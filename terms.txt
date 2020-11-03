@@ -994,3 +994,4 @@ dead 사망
 
 staggered 비틀거림
 drain 흡수
+helpless 무력화

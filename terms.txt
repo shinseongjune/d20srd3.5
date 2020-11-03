@@ -988,3 +988,9 @@ splash weapon 광역피해 무기
 
 feather fall 깃털 낙하
 delay 대기
+
+dying 죽어감
+dead 사망
+
+staggered 비틀거림
+drain 흡수

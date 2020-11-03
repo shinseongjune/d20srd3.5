@@ -987,3 +987,4 @@ locked gauntlet 잠금형 건틀릿
 splash weapon 광역피해 무기
 
 feather fall 깃털 낙하
+delay 대기

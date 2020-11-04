@@ -1000,3 +1000,7 @@ terrain 지역
 surface 표면
 encumbrance 방해물
 obstacle 장애물
+shaken 동요
+frightened 공포
+cowering 위축
+entangle 휘감김

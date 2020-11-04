@@ -1004,3 +1004,8 @@ shaken 동요
 frightened 공포
 cowering 위축
 entangle 휘감김
+
+burst 폭파형
+emanation 발산형
+line 일렬형
+spread 산개형

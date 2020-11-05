@@ -1,0 +1,6 @@
+특수 선제공격 행동(Special Initiative Actions)
+
+
+대기(Delay)
+
+준비(Ready)

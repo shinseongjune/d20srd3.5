@@ -245,7 +245,7 @@ bard 음유시인
 speak language 언어 구사
 bardic music 음유시인 음악
 bardic knowledge 음유시인 지식
-countersong 받아치기노래
+countersong 차단의 노래
 fascinate 매혹
 inspire courage 용기 고취
 inspire competence 역량 고취
@@ -882,7 +882,7 @@ extra turning 추가 퇴치
 forge ring 반지 단조
 great fortitude 대단한 인내
 greater spell penetration 대단한 주문 관통
-improved counterspell 향상된 받아치기주문
+improved counterspell 향상된 주문 차단
 improved familiar 향상된 사역마
 improved trip 향상된 다리 걸기
 improved turning 향상된 퇴치

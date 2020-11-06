@@ -1,0 +1,181 @@
+특수 공격(Special Attacks)
+
+표:특수 공격
+
+
+조력(Aid Another)
+
+
+황소 돌진(Bull Rush)
+
+황소 돌진으로 선제공격하기
+
+황소 돌진 결과
+
+돌진(Charge)
+
+돌진 중 이동
+
+돌진 중 공격
+
+창과 돌진 공격
+
+돌진에 대비해 준비된 무기
+
+무장해제(Disarm)
+
+1단계
+
+2단계
+
+3단계
+
+아이템 쥐기(Grabbing Items)
+
+교란(Feint)
+
+이동 행동으로 교란하기
+
+그래플링(Grapple)
+그래플링 체크(Grapple Checks)
+
+특수 몸집 수정치
+
+그래플링 시작하기(Starting a Grapple)
+
+1단계
+2단계
+3단계
+4단계
+
+그래플링 결과(Grappling Consequences)
+
+위협 구역 없음
+
+민첩 보너스 없음
+
+이동 없음
+
+
+그래플링을 한다면(If You're Grappling)
+
+마법 아이템 활성화하기
+
+적을 공격하기
+
+주문 시전하기
+
+적에게 피해 가하기
+
+가벼운 무기 뽑기
+
+그래플링 탈출하기
+
+이동하기
+
+주문 요소 찾아내기
+
+적을 억류하기
+
+적의 억류 깨기
+
+적의 무기 사용하기
+
+적을 억류한다면(If You're Pinning an Opponent)
+
+
+적에게 억류당했다면(If You're Pinned by an Opponent)
+
+그래플링에 참여하기(Joining a Grapple)
+
+다수의 그래플링 참여자(Multiple Grapplers)
+
+
+탑승 전투(Mounted Combat)
+전투에서의 말
+
+탑승 중 전투
+
+탑승 중 주문 시전
+
+전투 중 탈것이 쓰러진다면
+
+추락했다면
+
+
+돌파(Overrun)
+
+1단계
+2단계
+3단계
+4단계
+
+향상된 돌파
+
+탑승 돌파(짓밟기)
+
+쳐부수기(Sunder)
+
+1단계
+2단계
+3단계
+
+운반되거나 착용된 물건 쳐부수기
+
+
+광역피해 무기 투척(Throw Splash Weapon)
+
+
+다리 걸기(Trip)
+
+다리 걸기 공격 수행
+
+다리 걸기에 당한 경우(엎드림)
+
+탑승한 적 다리 걸기
+
+무기로 다리 걸기
+
+
+언데드 퇴치 또는 힐책(Turn Or Rebuke Undead)
+
+퇴치 체크(Turning Checks)
+
+하루 횟수 제한
+
+사거리
+
+퇴치 체크
+
+퇴치 피해량
+
+퇴치의 효과와 기간
+
+언데드 파괴하기
+
+악 성직자와 언데드(Evil Clerics and Undead)
+
+힐책당함(Rebuked)
+
+명령받음(Commanded)
+
+퇴치 무효화(Dispelling Turning)
+
+언데드 강화(Bolstering Undead)
+
+중립 성직자와 언데드(Neutral Clerics and Undead)
+
+성기사와 언데드(Paladins and Undead)
+
+다른 생물 퇴치하기(Turning Other Creatures)
+
+쌍수 전투(Two-Weapon Fighting)
+
+표:쌍수 전투 페널티
+
+
+양방향 무기(Double Weapons)
+
+투척 무기(Thrown Weapons)
+
+방패 가격 공격(Shield Bash Attacks)

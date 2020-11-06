@@ -1010,3 +1010,4 @@ burst 폭파형
 emanation 발산형
 line 일렬형
 spread 산개형
+bolstering undead 언데드 강화

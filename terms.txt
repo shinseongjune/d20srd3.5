@@ -818,7 +818,7 @@ Feat
 augment summoning 증강 소환
 blind-fight 눈먼 싸움
 combat expertise 전투 숙련
-improved disarm/feint/trip 향상된 무장해제/교란/다리 걸기
+improved disarm/feint/trip 향상된 무장해제/교란/넘어뜨리기
 whirlwind attack 소용돌이 공격
 combat reflexes 전투 반사신경
 dodge 회피
@@ -884,7 +884,7 @@ great fortitude 대단한 인내
 greater spell penetration 대단한 주문 관통
 improved counterspell 향상된 주문 차단
 improved familiar 향상된 사역마
-improved trip 향상된 다리 걸기
+improved trip 향상된 넘어뜨리기
 improved turning 향상된 퇴치
 investigator 탐구자
 iron will 철의 의지

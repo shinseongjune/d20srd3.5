@@ -1013,3 +1013,6 @@ spread 산개형
 bolstering undead 언데드 강화
 
 trident 삼지창
+
+spiked gauntlets 가시 건틀릿
+nonhumanoid 비휴머노이드

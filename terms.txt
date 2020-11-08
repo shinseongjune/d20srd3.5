@@ -997,7 +997,7 @@ staggered 비틀거림
 drain 흡수
 helpless 무력화
 
-terrain 지역
+difficult terrain 까다로운 지역
 surface 표면
 encumbrance 방해물
 obstacle 장애물
@@ -1011,3 +1011,5 @@ emanation 발산형
 line 일렬형
 spread 산개형
 bolstering undead 언데드 강화
+
+trident 삼지창

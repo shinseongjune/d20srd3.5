@@ -437,7 +437,7 @@ fear 공포
 dead 사망
 divine spell 신성 주문
 heavy warhorse 고중량 전쟁마
-warpony 전쟁나귀
+warpony 전쟁조랑말
 celestial 천상
 realm 영역
 conjuration 생성

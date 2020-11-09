@@ -38,7 +38,7 @@ racial bonus 종족 보너스
 resistance bonus 저항 보너스
 sacred modifier 신성 수정치
 shield bonus 방패 보너스
-size modifier 몸집 수정치
+size modifier 크기 수정치
 hit point 체력
 blinded 실명
 ability scores 능력치

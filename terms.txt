@@ -1018,3 +1018,6 @@ spiked gauntlets 가시 건틀릿
 nonhumanoid 비휴머노이드
 
 range increment 범위 증가량
+bolas 사냥돌
+bludgeoning 타격
+buckler 버클러

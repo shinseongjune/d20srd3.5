@@ -1021,3 +1021,43 @@ range increment 범위 증가량
 bolas 사냥돌
 bludgeoning 타격
 buckler 버클러
+
+---------------------------------------------------
+ability damaged 능력치 피해 상태
+ability drained 능력치 흡수 상태
+blinded 실명 상태
+blown away 날려감 상태
+checked 저지됨 상태
+confused 혼란 상태
+cowering 위축 상태
+dazed 멍함 상태
+dazzled 눈부심 상태
+dead 사망 상태
+deafened 귀먹음 상태
+disabled 불구 상태
+dying 죽어감 상태
+energy drained 에너지 흡수 상태
+entangled 휘감김 상태
+exhausted 탈진 상태
+fascinated 매혹 상태
+fatigued 피로 상태
+flat-footed 불시 상태
+frightened 공포 상태
+grappling 그래플링 상태
+helpless 무력화 상태
+incorporeal 무형 상태
+invisible 투명 상태
+knocked down 나가떨어짐 상태
+nauseated 구역질 상태
+panicked 충격 상태
+paralyzed 마비 상태
+petrified 석화 상태
+pinned 억류 상태
+prone 엎드림 상태
+shaken 동요 상태
+sickened 병약 상태
+stable 안정 상태
+staggered 비틀거림 상태
+stunned 기절 상태
+turned 퇴치 상태
+unconscious 혼수상태

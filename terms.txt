@@ -318,7 +318,7 @@ padded armor 누비 갑옷
 leather 가죽
 hide 생가죽
 ironwood spell 강철나무 주문
-supernatural 초자연적
+supernatural 초자연
 
 nature's ally 자연의 벗
 animal companion 동물 동료
@@ -1064,3 +1064,6 @@ unconscious 혼수상태
 negative level 음수 레벨
 
 invisibility 투명
+
+-----------------------------
+alternate form 대체 형태

@@ -1062,3 +1062,5 @@ stunned 기절 상태
 turned 퇴치 상태
 unconscious 혼수상태
 negative level 음수 레벨
+
+invisibility 투명

@@ -269,8 +269,8 @@ spoken performance 담화 공연
 standard action 표준 행동
 sonic 음파
 language-dependent 언어기반
-compulsion 강제
-cham 현혹
+compulsion 강압
+charm 현혹
 mind-affecting 정신영향
 performance 시연
 fighting capability 전투 수용력
@@ -1067,3 +1067,16 @@ invisibility 투명
 
 -----------------------------
 alternate form 대체 형태
+antimagic 반마법
+blindsight 맹시
+blindsense 맹감각
+breath weapon 숨결 무기
+change shape 형상 변환
+charm 현혹
+compulsion 강압
+cold immunity 냉기 면역
+constrict 조이기
+damage reduction 피해 감소
+darkvision 어둠시야
+death attacks 죽음의 일격
+disease 질병

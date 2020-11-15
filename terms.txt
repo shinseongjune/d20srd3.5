@@ -1080,3 +1080,17 @@ damage reduction 피해 감소
 darkvision 어둠시야
 death attacks 죽음의 일격
 disease 질병
+blinding sickness 실명증
+cackle fever 꾀꼬리열
+the shrieks 비명증
+demon fever 마귀열
+devil chills 악마 오한
+filth fever 오물열
+mindfire 정신화상
+mummy rot 미라 부패
+red ache 적통증
+the shakes 떨림증
+slimy doom 점액사병
+energy drain 에너지 흡수
+negative level 음수 레벨
+etherealness 

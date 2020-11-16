@@ -1101,3 +1101,82 @@ fear 공포
 fear aura 공포의 오라
 fear cones and rays 공포의 원뿔 그리고 광선
 frightful presence 무서운 존재
+fire immunity 화염 면역
+gaseoous form 기체 형상
+gaze attacks 응시 공격
+improved grab 향상된 잡기
+incorporeality 무형 상태
+invisibility 투명 상태
+level loss 레벨 손실
+low-light vision 저광 시야
+manufactured weapons 제조된 무기
+movement modes 이동 방식
+burrow 굴파기
+climb 등반
+fly 비행
+flight 자유 비행
+swim 수영
+natural weapons 자연 무기
+bite 물기
+claw or talon 손톱 또는 발톱
+gore 뿔 찌르기
+slap or slam 때리기 또는 후려치기
+sting 쏘기
+tentacle 촉수
+nonabilities 능력치 없음
+paralysis 마비
+poison 독
+contact 접촉
+ingested 섭취
+inhaled 흡입
+injury 상해
+perils of using posion 물약 사용의 위험성
+poison immunities 독 면역
+nitharit 니사리트
+sassone leaf residue 새손 잎 잔여물
+malyss root paste 맬리스 뿌리 반죽
+terinav root 터리나브 뿌리
+black lotus extract 검은 연꽃 추출물
+dragon bile 용의 담즙
+striped toadstool 줄무늬 버섯
+arsenic 비소
+id moss 이드 모스
+oil of taggit 태깃 기름
+lich dust 리치 가루
+dark reaver powder 검은 약탈자 가루
+ungol dust 운골 가루
+insanity mist 광기의 안개
+burnt othur fumes 태운 오투르 연기
+black adder venom 검은 애더 맹독
+small centipede poison 작은 지네 독
+bloodroot 피뿌리
+drow poison 드로우 독
+greenblood oil 초록피 기름
+blue whinnis 푸른 휜니스
+medium spider venom 중간 크기 거미 맹독
+shadow essence 그림자 정수
+wyvern poison 와이번 독
+large scorpion venom 대형 전갈 맹독
+giant wasp poison 거대 말벌 독
+deathblade 죽음날
+purple worm poison 보라 벌레 독
+polymorph 변신
+pounce 급습
+powerful charge 힘센 돌진
+psionics 사이오닉
+rake 갈퀴
+rays 광선
+regeneration 재생
+resistance to energy 에너지 저항
+scent 후각
+sonic attacks 음파 공격
+spell immunity 주문 면역
+spell resistance 주문 저항
+spells 주문
+summon 소환
+swallow whole 집어삼키기
+telepathy 텔레파시
+trample 짓밟기
+tremorsense 진동 감지
+turn resistance 퇴치 저항
+vulnerability to energy 에너지 취약

@@ -1093,4 +1093,11 @@ the shakes 떨림증
 slimy doom 점액사병
 energy drain 에너지 흡수
 negative level 음수 레벨
-etherealness 
+etherealness 에테르화, 에테리얼 상태
+evasion 회피
+improved evasion 향상된 회피
+fast healing 고속 치유
+fear 공포
+fear aura 공포의 오라
+fear cones and rays 공포의 원뿔 그리고 광선
+frightful presence 무서운 존재

@@ -52,192 +52,192 @@
 
 마귀열(Demon Fever)
 
-악마 오한(devil chills)
+악마 오한(Devil Chills)
 
-오물열(filth fever)
+오물열(Filth Fever)
 
-정신화상(mindfire)
+정신화상(Mindfire)
 
-미라 부패(mummy rot)
+미라 부패(Mummy Rot)
 
-적통증(red ache)
+적통증(Red Ache)
 
-떨림증(the shakes)
+떨림증(The Shakes)
 
-점액사병(slimy doom)
+점액사병(Slimy Doom)
 
-에너지 흡수(energy drain)
+에너지 흡수(Energy Drain)
 
-음수 레벨(negative level)
+음수 레벨(Negative Level)
 
-에테리얼 상태(etherealness)
+에테리얼 상태(Etherealness)
 
-회피(evasion)
+회피(Evasion)
 
-향상된 회피(improved evasion)
+향상된 회피(Improved Evasion)
 
-고속 치유(fast healing)
+고속 치유(Fast Healing)
 
-공포(fear)
+공포(Fear)
 
-공포의 오라(fear aura)
+공포의 오라(Fear Aura)
 
-공포의 원뿔 그리고 광선(fear cones and rays)
+공포의 원뿔 그리고 광선(Fear Cones And Rays)
 
-무서운 존재(frightful presence)
+무서운 존재(Frightful Presence)
 
-화염 면역(fire immunity)
+화염 면역(Fire Immunity)
 
-기체 형상(gaseoous form)
+기체 형상(Gaseoous Form)
 
-응시 공격(gaze attacks)
+응시 공격(Gaze Attacks)
 
-향상된 잡기(improved grab)
+향상된 잡기(Improved Grab)
 
-무형 상태(incorporeality)
+무형 상태(Incorporeality)
 
-투명 상태(invisibility)
+투명 상태(Invisibility)
 
-레벨 손실(level loss)
+레벨 손실(Level Loss)
 
-저광 시야(low-light vision)
+저광 시야(Low-Light Vision)
 
-제조된 무기(manufactured weapons)
+제조된 무기(Manufactured Weapons)
 
-이동 방식(movement modes)
+이동 방식(Movement Modes)
 
-굴파기(burrow)
+굴파기(Burrow)
 
-등반(climb)
+등반(Climb)
 
-비행(fly)
+비행(Fly)
 
-자유 비행(flight)
+자유 비행(Flight)
 
-수영(swim)
+수영(Swim)
 
-자연 무기(natural weapons)
+자연 무기(Natural Weapons)
 
-물기(bite)
+물기(Bite)
 
-손톱 또는 발톱(claw or talon)
+손톱 또는 발톱(Claw Or Talon)
 
-뿔 찌르기(gore)
+뿔 찌르기(Gore)
 
-때리기 또는 후려치기(slap or slam)
+때리기 또는 후려치기(Slap Or Slam)
 
-쏘기(sting)
+쏘기(Sting)
 
-촉수(tentacle)
+촉수(Tentacle)
 
-능력치 없음(nonabilities)
+능력치 없음(Nonabilities)
 
-마비(paralysis)
+마비(Paralysis)
 
-독(poison)
+독(Poison)
 
-접촉(contact)
+접촉(Contact)
 
-섭취(ingested)
+섭취(Ingested)
 
-흡입(inhaled)
+흡입(Inhaled)
 
-상해(injury)
+상해(Injury)
 
-물약 사용의 위험성(perils of using posion)
+물약 사용의 위험성(Perils Of Using Posion)
 
-독 면역(poison immunities)
+독 면역(Poison Immunities)
 
-니사리트(nitharit)
+니사리트(Nitharit)
 
-새손 잎 잔여물(sassone leaf residue)
+새손 잎 잔여물(Sassone Leaf Residue)
 
-맬리스 뿌리 반죽(malyss root paste)
+맬리스 뿌리 반죽(Malyss Root Paste)
 
-터리나브 뿌리(terinav root)
+터리나브 뿌리(Terinav Root)
 
-검은 연꽃 추출물(black lotus extract)
+검은 연꽃 추출물(Black Lotus Extract)
 
-용의 담즙(dragon bile)
+용의 담즙(Dragon Bile)
 
-줄무늬 버섯(striped toadstool)
+줄무늬 버섯(Striped Toadstool)
 
-비소(arsenic)
+비소(Arsenic)
 
-이드 모스(id moss)
+이드 모스(Id Moss)
 
-태깃 기름(oil of taggit)
+태깃 기름(Oil Of Taggit)
 
-리치 가루(lich dust)
+리치 가루(Lich Dust)
 
-검은 약탈자 가루(dark reaver powder)
+검은 약탈자 가루(Dark Reaver Powder)
 
-운골 가루(ungol dust)
+운골 가루(Ungol Dust)
 
-광기의 안개(insanity mist)
+광기의 안개(Insanity Mist)
 
-태운 오투르 연기(burnt othur fumes)
+태운 오투르 연기(Burnt Othur Fumes)
 
-검은 애더 맹독(black adder venom)
+검은 애더 맹독(Black Adder Venom)
 
-작은 지네 독(small centipede poison)
+작은 지네 독(Small Centipede Poison)
 
-피뿌리(bloodroot)
+피뿌리(Bloodroot)
 
-드로우 독(drow poison)
+드로우 독(Drow Poison)
 
-초록피 기름(greenblood oil)
+초록피 기름(Greenblood Oil)
 
-푸른 휜니스(blue whinnis)
+푸른 휜니스(Blue Whinnis)
 
-중간 크기 거미 맹독(medium spider venom)
+중간 크기 거미 맹독(Medium Spider Venom)
 
-그림자 정수(shadow essence)
+그림자 정수(Shadow Essence)
 
-와이번 독(wyvern poison)
+와이번 독(Wyvern Poison)
 
-대형 전갈 맹독(large scorpion venom)
+대형 전갈 맹독(Large Scorpion Venom)
 
-거대 말벌 독(giant wasp poison)
+거대 말벌 독(Giant Wasp Poison)
 
-죽음날(deathblade)
+죽음날(Deathblade)
 
-보라 벌레 독(purple worm poison)
+보라 벌레 독(Purple Worm Poison)
 
-변신(polymorph)
+변신(Polymorph)
 
-급습(pounce)
+급습(Pounce)
 
-힘센 돌진(powerful charge)
+힘센 돌진(Powerful Charge)
 
-사이오닉(psionics)
+사이오닉(Psionics)
 
-갈퀴(rake)
+갈퀴(Rake)
 
-광선(rays)
+광선(Rays)
 
-재생(regeneration)
+재생(Regeneration)
 
-에너지 저항(resistance to energy)
+에너지 저항(Resistance To Energy)
 
-후각(scent)
+후각(Scent)
 
-음파 공격(sonic attacks)
+음파 공격(Sonic Attacks)
 
-주문 면역(spell immunity)
+주문 면역(Spell Immunity)
 
-주문 저항(spell resistance)
+주문 저항(Spell Resistance)
 
-주문(spells)
+주문(Spells)
 
-소환(summon)
+소환(Summon)
 
-집어삼키기(swallow whole)
+집어삼키기(Swallow Whole)
 
-텔레파시(telepathy)
+텔레파시(Telepathy)
 
-짓밟기(trample)
+짓밟기(Trample)
 
-진동 감지(tremorsense)
+진동 감지(Tremorsense)
 
-퇴치 저항(turn resistance)
+퇴치 저항(Turn Resistance)

@@ -1066,6 +1066,9 @@ negative level 음수 레벨
 invisibility 투명
 
 -----------------------------
+ability score loss 능력치 손실
+ability damage 능력치 피해
+ability drain 능력치 흡수
 alternate form 대체 형태
 antimagic 반마법
 blindsight 맹시

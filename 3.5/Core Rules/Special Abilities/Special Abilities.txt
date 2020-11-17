@@ -14,8 +14,230 @@
 
 능력치 손실(Ability Score Loss)
 
-능력치 피해
+능력치 피해(Ability Damage)
 
-능력치 흡수
+능력치 흡수(Ability Drain)
 
 대체 형태(Alternate Form)
+
+반마법(Antimagic)
+
+맹시(Blindsight)
+
+맹감각(Blindsense)
+
+숨결 무기(Breath Weapon)
+
+형상 변환(Change Shape)
+
+현혹(Charm)
+
+강압(Compulsion)
+
+냉기 면역(Cold Immunity)
+
+조이기(Constrict)
+
+피해 감소(Damage Reduction)
+
+어둠시야(Darkvision)
+
+죽음의 일격(Death Attacks)
+
+질병(Disease)
+
+실명증(Blinding Sickness)
+
+꾀꼬리열(Cackle Fever)
+
+마귀열(Demon Fever)
+
+악마 오한(devil chills)
+
+오물열(filth fever)
+
+정신화상(mindfire)
+
+미라 부패(mummy rot)
+
+적통증(red ache)
+
+떨림증(the shakes)
+
+점액사병(slimy doom)
+
+에너지 흡수(energy drain)
+
+음수 레벨(negative level)
+
+에테리얼 상태(etherealness)
+
+회피(evasion)
+
+향상된 회피(improved evasion)
+
+고속 치유(fast healing)
+
+공포(fear)
+
+공포의 오라(fear aura)
+
+공포의 원뿔 그리고 광선(fear cones and rays)
+
+무서운 존재(frightful presence)
+
+화염 면역(fire immunity)
+
+기체 형상(gaseoous form)
+
+응시 공격(gaze attacks)
+
+향상된 잡기(improved grab)
+
+무형 상태(incorporeality)
+
+투명 상태(invisibility)
+
+레벨 손실(level loss)
+
+저광 시야(low-light vision)
+
+제조된 무기(manufactured weapons)
+
+이동 방식(movement modes)
+
+굴파기(burrow)
+
+등반(climb)
+
+비행(fly)
+
+자유 비행(flight)
+
+수영(swim)
+
+자연 무기(natural weapons)
+
+물기(bite)
+
+손톱 또는 발톱(claw or talon)
+
+뿔 찌르기(gore)
+
+때리기 또는 후려치기(slap or slam)
+
+쏘기(sting)
+
+촉수(tentacle)
+
+능력치 없음(nonabilities)
+
+마비(paralysis)
+
+독(poison)
+
+접촉(contact)
+
+섭취(ingested)
+
+흡입(inhaled)
+
+상해(injury)
+
+물약 사용의 위험성(perils of using posion)
+
+독 면역(poison immunities)
+
+니사리트(nitharit)
+
+새손 잎 잔여물(sassone leaf residue)
+
+맬리스 뿌리 반죽(malyss root paste)
+
+터리나브 뿌리(terinav root)
+
+검은 연꽃 추출물(black lotus extract)
+
+용의 담즙(dragon bile)
+
+줄무늬 버섯(striped toadstool)
+
+비소(arsenic)
+
+이드 모스(id moss)
+
+태깃 기름(oil of taggit)
+
+리치 가루(lich dust)
+
+검은 약탈자 가루(dark reaver powder)
+
+운골 가루(ungol dust)
+
+광기의 안개(insanity mist)
+
+태운 오투르 연기(burnt othur fumes)
+
+검은 애더 맹독(black adder venom)
+
+작은 지네 독(small centipede poison)
+
+피뿌리(bloodroot)
+
+드로우 독(drow poison)
+
+초록피 기름(greenblood oil)
+
+푸른 휜니스(blue whinnis)
+
+중간 크기 거미 맹독(medium spider venom)
+
+그림자 정수(shadow essence)
+
+와이번 독(wyvern poison)
+
+대형 전갈 맹독(large scorpion venom)
+
+거대 말벌 독(giant wasp poison)
+
+죽음날(deathblade)
+
+보라 벌레 독(purple worm poison)
+
+변신(polymorph)
+
+급습(pounce)
+
+힘센 돌진(powerful charge)
+
+사이오닉(psionics)
+
+갈퀴(rake)
+
+광선(rays)
+
+재생(regeneration)
+
+에너지 저항(resistance to energy)
+
+후각(scent)
+
+음파 공격(sonic attacks)
+
+주문 면역(spell immunity)
+
+주문 저항(spell resistance)
+
+주문(spells)
+
+소환(summon)
+
+집어삼키기(swallow whole)
+
+텔레파시(telepathy)
+
+짓밟기(trample)
+
+진동 감지(tremorsense)
+
+퇴치 저항(turn resistance)

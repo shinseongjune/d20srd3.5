@@ -9,7 +9,7 @@ alchemical bonus 연금술 보너스
 armor bonus 방어구 보너스
 armor class AC 방어 수준
 touch attack 접촉 공격
-force 포스
+force 힘
 mage armor 마법사 갑옷
 shadow 그림자 괴물
 incorporeal 무형
@@ -1096,7 +1096,7 @@ the shakes 떨림증
 slimy doom 점액사병
 energy drain 에너지 흡수
 negative level 음수 레벨
-etherealness 에테르화, 에테리얼 상태
+etherealness 에테르화, 에테르 상태
 evasion 회피
 improved evasion 향상된 회피
 fast healing 고속 치유
@@ -1187,3 +1187,8 @@ vulnerability to energy 에너지 취약
 restoration 회복
 
 bag of holding 소유의 가방
+wall of force 힘의 벽
+prismatic wall 프리즘 벽
+prismatic sphere 프리즘 구
+break enchantment 부여 파괴
+mage's disjunction 마법사의 분리

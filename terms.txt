@@ -1185,3 +1185,5 @@ turn resistance 퇴치 저항
 vulnerability to energy 에너지 취약
 
 restoration 회복
+
+bag of holding 소유의 가방

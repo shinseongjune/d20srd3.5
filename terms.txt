@@ -1192,3 +1192,5 @@ prismatic wall 프리즘 벽
 prismatic sphere 프리즘 구
 break enchantment 부여 파괴
 mage's disjunction 마법사의 분리
+displacement 변위
+blur 흐리기

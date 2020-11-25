@@ -1156,7 +1156,7 @@ bloodroot 피뿌리
 drow poison 드로우 독
 greenblood oil 초록피 기름
 blue whinnis 푸른 휜니스
-medium spider venom 중간 크기 거미 맹독
+medium spider venom 중형 거미 맹독
 shadow essence 그림자 정수
 wyvern poison 와이번 독
 large scorpion venom 대형 전갈 맹독
@@ -1194,3 +1194,5 @@ break enchantment 부여 파괴
 mage's disjunction 마법사의 분리
 displacement 변위
 blur 흐리기
+
+template 템플릿

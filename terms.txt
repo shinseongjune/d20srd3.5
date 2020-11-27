@@ -1196,3 +1196,14 @@ displacement 변위
 blur 흐리기
 
 template 템플릿
+piercing 관통
+bludgeoning 타격
+slashing 참격
+
+alchemical silver 연금술 은
+adamantine 아다만틴
+cold iron 한철
+
+align weapon 성향 무기
+
+injury 상해

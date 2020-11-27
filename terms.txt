@@ -994,7 +994,7 @@ dying 죽어감
 dead 사망
 
 staggered 비틀거림
-drain 흡수
+drain 유출
 helpless 무력화
 
 difficult terrain 까다로운 지역
@@ -1024,7 +1024,7 @@ buckler 버클러
 
 ---------------------------------------------------
 ability damaged 능력치 피해 상태
-ability drained 능력치 흡수 상태
+ability drained 능력치 유출 상태
 blinded 실명 상태
 blown away 날려감 상태
 checked 저지됨 상태
@@ -1036,7 +1036,7 @@ dead 사망 상태
 deafened 귀먹음 상태
 disabled 불구 상태
 dying 죽어감 상태
-energy drained 에너지 흡수 상태
+energy drained 에너지 유출 상태
 entangled 휘감김 상태
 exhausted 탈진 상태
 fascinated 매혹 상태
@@ -1068,7 +1068,7 @@ invisibility 투명
 -----------------------------
 ability score loss 능력치 손실
 ability damage 능력치 피해
-ability drain 능력치 흡수
+ability drain 능력치 유출
 alternate form 대체 형태
 antimagic 반마법
 blindsight 맹시
@@ -1094,7 +1094,7 @@ mummy rot 미라 부패
 red ache 적통증
 the shakes 떨림증
 slimy doom 점액사병
-energy drain 에너지 흡수
+energy drain 에너지 유출
 negative level 음수 레벨
 etherealness 에테르화, 에테르 상태
 evasion 회피
@@ -1207,3 +1207,7 @@ cold iron 한철
 align weapon 성향 무기
 
 injury 상해
+
+raise dead 망자 일으키기
+animate dead 망자 되살리기
+death ward 죽음 수호

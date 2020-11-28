@@ -1212,3 +1212,7 @@ raise dead 망자 일으키기
 animate dead 망자 되살리기
 death ward 죽음 수호
 night hag 밤 해그
+barbazu 바르바주
+pit fiend 심지옥 마족
+otyugh 오티우그
+mummy 미라

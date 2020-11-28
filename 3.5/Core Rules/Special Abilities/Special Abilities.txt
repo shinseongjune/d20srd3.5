@@ -251,8 +251,10 @@ DC
 증상으로 고열, 방향 감각 상실, 끔찍한 웃음을 동반하는 빈번한 발작을 포함합니다. "비명증"으로도 알려져 있습니다.
 
 마귀열(Demon Fever)
+밤 해그가 전파합니다. 영구적인 능력치 유출을 유발할 수 있습니다.
 
 악마 오한(Devil Chills)
+
 
 오물열(Filth Fever)
 
@@ -380,7 +382,7 @@ DC
 
 검은 애더 맹독(Black Adder Venom)
 
-작은 지네 독(Small Centipede Poison)
+소형 지네 독(Small Centipede Poison)
 
 피뿌리(Bloodroot)
 

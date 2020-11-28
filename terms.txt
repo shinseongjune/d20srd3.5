@@ -1151,7 +1151,7 @@ ungol dust 운골 가루
 insanity mist 광기의 안개
 burnt othur fumes 태운 오투르 연기
 black adder venom 검은 애더 맹독
-small centipede poison 작은 지네 독
+small centipede poison 소형 지네 독
 bloodroot 피뿌리
 drow poison 드로우 독
 greenblood oil 초록피 기름
@@ -1211,3 +1211,4 @@ injury 상해
 raise dead 망자 일으키기
 animate dead 망자 되살리기
 death ward 죽음 수호
+night hag 밤 해그

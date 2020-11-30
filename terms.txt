@@ -413,7 +413,7 @@ perfect self 열반
 spell resistance 주문 저항
 construct 구조체
 ooze 수액괴물
-ethereal 에테르
+ethereal 에테르 에테리얼
 etherealness 에테르화
 outsider 아웃사이더
 
@@ -1217,3 +1217,9 @@ pit fiend 심지옥 마족
 otyugh 오티우그
 mummy 미라
 wight 와이트
+
+phase spider 위상 거미
+see invisibility 투명 보기
+magic missile 마법 미사일
+ghost 유령
+manifestation 표명

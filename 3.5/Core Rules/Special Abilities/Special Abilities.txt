@@ -342,7 +342,7 @@ DC
 
 공포의 원뿔 및 광선(Fear Cones And Rays)
 
-무서운 존재(Frightful Presence)
+무시무시한 존재(Frightful Presence)
 
 화염 면역(Fire Immunity)
 

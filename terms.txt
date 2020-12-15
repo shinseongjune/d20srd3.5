@@ -1223,3 +1223,7 @@ see invisibility 투명 보기
 magic missile 마법 미사일
 ghost 유령
 manifestation 표명
+
+force armor 힘의 방어구
+
+stench 악취

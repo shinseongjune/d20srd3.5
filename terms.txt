@@ -1227,3 +1227,7 @@ manifestation 표명
 force armor 힘의 방어구
 
 stench 악취
+
+spectre 원혼
+
+bracers of armor 방호의 팔 보호구

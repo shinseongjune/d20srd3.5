@@ -1230,4 +1230,6 @@ stench 악취
 
 spectre 원혼
 
-bracers of armor 방호의 팔 보호구
+bracers of armor 방호의 팔보호구
+
+light 발광

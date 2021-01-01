@@ -529,7 +529,7 @@ DC
 
 상해(Injury)
 
-물약 사용의 위험성(Perils Of Using Posion)
+독 사용의 위험성(Perils Of Using Poison)
 
 독 면역(Poison Immunities)
 

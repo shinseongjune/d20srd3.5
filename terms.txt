@@ -1233,3 +1233,5 @@ spectre 원혼
 bracers of armor 방호의 팔보호구
 
 light 발광
+
+dive 강하

@@ -1235,3 +1235,7 @@ bracers of armor 방호의 팔보호구
 light 발광
 
 dive 강하
+
+pattern 모조
+phantasm 환상
+hold person 인간 정지

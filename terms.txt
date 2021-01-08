@@ -1239,3 +1239,8 @@ dive 강하
 pattern 모조
 phantasm 환상
 hold person 인간 정지
+
+initial damage 초기 피해
+secondary damage 후속 피해
+
+plant 식물체

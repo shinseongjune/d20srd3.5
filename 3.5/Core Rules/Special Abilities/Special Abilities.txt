@@ -679,3 +679,5 @@ DC
 진동 감지(Tremorsense)
 
 퇴치 저항(Turn Resistance)
+
+에너지에 취약(Vulnerability to Energy)

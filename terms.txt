@@ -1244,3 +1244,4 @@ initial damage 초기 피해
 secondary damage 후속 피해
 
 plant 식물체
+vermin 해충체

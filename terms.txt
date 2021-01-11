@@ -1245,3 +1245,11 @@ secondary damage 후속 피해
 
 plant 식물체
 vermin 해충체
+
+targeted spell 대상 지정 주문
+area spell 범위 주문
+effect spell 효과 주문
+
+web 그물
+
+magic stone 마법의 돌

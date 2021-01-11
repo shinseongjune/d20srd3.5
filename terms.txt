@@ -1253,3 +1253,13 @@ effect spell 효과 주문
 web 그물
 
 magic stone 마법의 돌
+
+angel 천사
+aquatic 수중
+archon 집정관
+augmented 증강
+extraplanar
+native
+reptilian 렙틸리언
+shapechanger 형상변환자
+swarm 무리

@@ -1,0 +1,72 @@
+유형 & 보조유형(Types & Subtypes)
+
+유형(Types)
+기괴체 유형(Abberation Type)
+
+동물 유형(Animal Type)
+
+구조체 유형(Construct Type)
+
+용족 유형(Dragon Type)
+
+원소정령 유형(Elemental Type)
+
+페이 유형(Fey Type)
+
+거인 유형(Giant Type)
+
+휴머노이드 유형(Humanoid Type)
+
+마법 야수 유형(Magical Beast Type)
+
+괴물 휴머노이드 유형(Monstrous Humanoid Type)
+
+수액괴물 유형(Ooze Type)
+
+아웃사이더 유형(Outsider Type)
+
+식물체 유형(Plant Type)
+
+언데드 유형(Undead Type)
+
+해충체 유형(Vermin Type)
+
+보조유형(Subtypes)
+
+공기 보조유형(Air Subtype)
+
+천사 보조유형(Angel Subtype)
+
+수중 보조유형(Aquatic Subtype)
+
+집정관(Archon Subtype)
+
+증강 보조유형(Augmented Subtype)
+
+혼돈 보조유형(Chaotic Subtype)
+
+냉기 보조유형(Cold Subtype)
+
+대지 보조유형(Earth Subtype)
+
+악 보조유형(Evil Subtype)
+
+차원여행자 보조유형(Extraplanar Subtype)
+
+불 보조유형(Fire Subtype)
+
+고블리노이드 보조유형(Goblinoid Subtype)
+
+선 보조유형(Good Subtype)
+
+무형 보조유형(Incorporeal Subtype)
+
+질서 보조유형(Lawful Subtype)
+
+(Native Subtype)
+
+렙틸리언 보조유형(Reptilian Subtype)
+
+형상변환자 보조유형(Shapechanger Subtype)
+
+무리 보조유형(Swarm Subtype)

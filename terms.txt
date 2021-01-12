@@ -1263,3 +1263,10 @@ native 원주민
 reptilian 렙틸리언
 shapechanger 형상변환자
 swarm 무리
+
+feature 특징
+trait 특성
+
+craft construct 구조체 제작
+raise 되살리기
+resurrection 부활

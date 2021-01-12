@@ -1258,8 +1258,8 @@ angel 천사
 aquatic 수중
 archon 집정관
 augmented 증강
-extraplanar
-native
+extraplanar 이계
+native 원주민
 reptilian 렙틸리언
 shapechanger 형상변환자
 swarm 무리

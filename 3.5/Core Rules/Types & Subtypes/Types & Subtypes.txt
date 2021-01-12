@@ -63,7 +63,7 @@
 
 질서 보조유형(Lawful Subtype)
 
-(Native Subtype)
+원주민 보조유형(Native Subtype)
 
 렙틸리언 보조유형(Reptilian Subtype)
 

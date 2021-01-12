@@ -280,7 +280,7 @@ cleric 성직자
 deity 신
 concentration 집중
 arcana 비전
-the planes 차원
+the planes 세계
 rebuke 힐책
 domain 영역
 war domain 전쟁 영역
@@ -526,17 +526,17 @@ still magic 부동 주문
 -------------------------
 
 ----------------------
-차원
+세계
 
-material plane 물질 차원
-transitive planes 전이 차원
-inner planes 내부 차원
-outer planes 외부 차원
-demiplanes 준차원
+material plane 물질 세계
+transitive planes 전이 세계
+inner planes 내부 세계
+outer planes 외부 세계
+demiplanes 준세계
 
-astral plane 별무리 차원
-ethereal plane 에테르 차원
-plane of shadow 그림자의 차원
+astral plane 별무리 세계
+ethereal plane 에테르 세계
+plane of shadow 그림자의 세계
 
 
 

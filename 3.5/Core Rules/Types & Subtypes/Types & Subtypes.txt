@@ -51,7 +51,7 @@
 
 악 보조유형(Evil Subtype)
 
-차원여행자 보조유형(Extraplanar Subtype)
+이계 보조유형(Extraplanar Subtype)
 
 불 보조유형(Fire Subtype)
 
@@ -70,3 +70,5 @@
 형상변환자 보조유형(Shapechanger Subtype)
 
 무리 보조유형(Swarm Subtype)
+
+물 보조유형(Water Subtype)

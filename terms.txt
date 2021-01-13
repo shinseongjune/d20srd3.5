@@ -375,7 +375,7 @@ sai 필가차
 siangham 샹함
 
 flurry of blows 질풍연격
-helpless 속수무책
+helpless 무력화
 full attack action 전력 공격 행동
 special monk weapon 수도사 특수 무기
 unarmed strike 맨손 타격

@@ -420,7 +420,7 @@ outsider 아웃사이더
 ------------
 성기사
 
-light/medium/heavy armor 가벼운/보통/무거운 방어구
+light/medium/heavy armor 경량/중량/고중량 방어구
 smite evil 악 강타
 divine grace 신성한 은혜
 lay on hands 광휘의 손길

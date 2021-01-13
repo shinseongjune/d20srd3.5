@@ -1268,5 +1268,13 @@ feature 특징
 trait 특성
 
 craft construct 구조체 제작
-raise 되살리기
+raise dead 망자 되살리기
+reincarnate 환생
 resurrection 부활
+
+limited wish 제한된 소원
+wish 소원
+miracle 기적
+true resurrection 진정한 부활
+
+distraction 주의산만

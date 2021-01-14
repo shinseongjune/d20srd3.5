@@ -1264,7 +1264,7 @@ reptilian 렙틸리언
 shapechanger 형상변환자
 swarm 무리
 
-feature 특징
+feature 기능
 trait 특성
 
 craft construct 구조체 제작
@@ -1278,3 +1278,5 @@ miracle 기적
 true resurrection 진정한 부활
 
 distraction 주의산만
+
+mindless 정신 부재

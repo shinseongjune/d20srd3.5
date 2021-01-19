@@ -1286,3 +1286,4 @@ tongues 방언
 magic circle against evil 악에 대항하는 마법진
 globe of invulnerability 무적의 구
 amphibious 수륙양용
+aura of menace 

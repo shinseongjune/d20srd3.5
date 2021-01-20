@@ -461,7 +461,7 @@ woodland stride 삼림지대 활보
 swift tracker 신속한 추적자
 combat style mastery 전투 스타일 통달
 improved precise shot 향상된 정밀 사격
-greater two-weapon fighting 최고의 쌍수 격투
+greater two-weapon fighting 상급 쌍수 전투
 camouflage 위장술
 cover 엄폐
 concealment 은폐
@@ -856,12 +856,12 @@ rapid reload 빠른 장전
 two-weapon fighting 쌍수 전투
 two-weapon defense 쌍수 방어
 improved two-weapon fighting 향상된 쌍수 전투
-greater two-weapon fighting 대단한 쌍수 전투
+greater two-weapon fighting 상급 쌍수 전투
 weapon finesse 무기 기교
 weapon focus 무기 집중
 weapon specialization 무기 전문화
-greater weapon focus 대단한 무기 집중
-greater weapon specialization 대단한 무기 전문화
+greater weapon focus 상급 무기 집중
+greater weapon specialization 상급 무기 전문화
 
 combat casting 전투 시전
 craft magic arms and armor 마법 무기, 방어구 제작
@@ -880,8 +880,8 @@ eschew materials 물질 기피
 exotic weapon proficiency 낯선 무기 숙련
 extra turning 추가 퇴치
 forge ring 반지 단조
-great fortitude 대단한 인내
-greater spell penetration 대단한 주문 관통
+great fortitude 상급 인내
+greater spell penetration 상급 주문 관통
 improved counterspell 향상된 주문 차단
 improved familiar 향상된 사역마
 improved trip 향상된 넘어뜨리기
@@ -1286,4 +1286,5 @@ tongues 방언
 magic circle against evil 악에 대항하는 마법진
 globe of invulnerability 무적의 구
 amphibious 수륙양용
-aura of menace 
+aura of menace 위협의 오라
+greater teleport 상급 순간이동

@@ -396,8 +396,6 @@
 무리 보조유형(Swarm Subtype)
 
 특성(Traits)
--
--
 
 무리 공격(Swarm Attack)
 

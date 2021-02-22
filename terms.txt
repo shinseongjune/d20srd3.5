@@ -1290,3 +1290,4 @@ aura of menace 위협의 오라
 greater teleport 상급 순간이동
 
 disintegrate 파열
+gust of wind 돌풍
